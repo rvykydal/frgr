@@ -195,58 +195,22 @@ a
 a
 es
 est
-#
-, cru,
-suivi,
-COÎC
-24
-- 5
-176
-17
-178
-179
-i8O
-181
-182
-183
-184
-185
-3
-3
-CS
-Q
+#11. Le passé composé, l'imparfait, le passé simple
+#155 - Cvičebnice francouzské gramatiky
+a
+a
+es
+a
 ont
-Q
+a
 est
-QVCZ
-3
+avez
+a
 est
-âV€Z
-âV€Z
-1 1. Le passé composé, Vimparfaít, le passé simple
-Complétez les phrases suivantes avec les participes passés qui conviennent: aperçu, bu,
-conduit, connu, cru, mis, offert, ouvert, parti, permis, plu, plu, prévenu, promis, servi,
-sorti, suffi, suivi, tenu, vécu.
-186
-187
-188
-189
-190
-191
-192
-193
-194
-195
-196
-197
-198
-199
-200
-201
-202.
-203
-204
-205
+avez
+avez
+#Complétez les phrases suivantes avec les participes passés qui conviennent: aperçu, bu, cru, conduit, connu, cru, mis, offert, ouvert, parti, permis, plu, plu, prévenu, promis, servi, suivi, sorti, suffi, suivi, tenu, vécu.
+#!aperçu, bu, cru, conduit, connu, cru, mis, offert, ouvert, parti, permis, plu, plu, prévenu, promis, servi, suivi, sorti, suffi, suivi, tenu, vécu
 mis
 ouvert
 plu
