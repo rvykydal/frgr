@@ -231,109 +231,59 @@ Personne ne t'a * de faire des choses comme ca.
 Quand j'ai * le chef revenir, je me suis remis au travail.
 ]'ai * mon chien parce qu'il était nerveux.
 Pourquoi est-ce que personne ne m'a * qu'il ne serait pas à la maison?
+#Infinitiv v závorce nahraďte tvarem složeného perfekta.
+#! -> passé composé
+]' (conduire) ma petite soeur à ľécole maternelle.
+Vos paroles  (plaire) à tout le monde.
+Qui (boire) toute la bouteille de coca?
+Quand est-ce que vous (offrir) des fleurs à votre femme pour la dernière fois?
+Mon cousin (servir) d'interprète à un groupe de Français.
+#11. Složené perfektum, imperfektum, jednoduché perfektum
+#156 - Cvičebnice francouzské gramatiky
+Ils (suivre) les programmes de la télé jusqu'à une heure du matin.
+En Amérique, Antonín Dvořák (connaìtre) un très grand succes.
+Il (pleuvoir) à verse, je suis encore tout mouillé.
+Nous (sortir) pour vous dire bonjour.
+Il (ouvrir) le coffre fort pour y déposer cent mille dollars.
+Vous lui (permettre) d'ouvrir la fenêtre?
+Ils (partir) tôt le matin.
+]' (mettre) ma nouvelle robe pour l'occasion.
+Il (suffire) de le demander.
+Tu (vivre) sur un grand pied, maintenant il faut faire des économies.
+Il (croire) les aider, mais il a (produire) une catastrophe.
+Il y a dix ans on (reconstruire) la cathédrale de notre ville.
+En une heure la neige (couvrir) toute la campagne.
+Elle (entreprendre) ses études de médecine avec beaucoup de courage.
+Est-ce que vous (retenir) son numéro de téléphone?
+#Proveďte shodu příčestí, je-li třeba.
+#!l'accord du participe passé?
+La porte que j'ai ouvert... donnait sur le couloir.
+Combien de femmes a-t-il aimé...?
+Est-ce que vous connaissez le nom de l'homme qui vous a Suivi ..., madame?
+Je ne vous ai pas répondu..., messieurs?
+Les revues sur l'archéologie, tu les as rendu... à la bibliothèque?
+Quelle marque de voiture a-t-il choisi...?
+Elle s'est lavé... les cheveux.
+Les billets que vous avez pris... sont à cent couronnes?
+La dame qui nous a tellement aidé... n'a pas voulu de récompense.
+Comment s'appelle le jeune homme qui t'a attendu... devant la porte, Monique?
+Vous avez remercié... votre maìtresse? Non, nous ne l'avons pas remercié....
+Les poésies qu'il a écrit... à venise sont d'une beauté extraordinaire.
+Quelles bêtises il nous a raconté...!
+Tu lui a montré... tes photos?
+On a démoli... la maison que j'ai habité... dans mon enfance.
+Quels repas t'a-t-elle servi...?
+Vous vous êtes rencontré... à la station de metro?
+Combien de langues a-t-il appris... pendant son séjour en Europe orientale?
+Cette jupe en coton, je l'ai porté... tout l'été.
+Est-ce qu'ils vous ont offert... quelque chose à manger?
+Heureusement je n'ai pas besoin des clés que j'ai oublié... à la maison.
+Quelle bouteille avez-vous bu...?
+Laquelle de ces jeunes filles ton frère a-t-il tellement aimé...?
+Votre reportage que j'ai lu... dans Le Monde est franchement excellent.
+Monsieur le ministre, est-ce que vous êtes revenu... satisfait de votre visite officielle en Russie?
+Ils ne se sont pas vu... depuis longtemps.
 
-Infinízfív v závorce rıćıhraďte tvarem složeného perfekzfúı.
-206.
-207.
-208.
-209.
-210.
-]”   (conduire) ma petite soeur à ľćcole maternelle.
-VOS paroles   (plaire) à tout le monde.
-Qui   (boire) toute la bouteille de coca?
-Quand est~ce que Vous   (offrir) des fleurs à votre femme pour la dernière fois? \».;“
-Mon cousin   (servir) ďinterprète à un groupe de Français.
-154 Cvičebnice francouzské gramatiky
-174. a
-175. a
-176. er
-177. a
-178.0
-179. a
-I80. e
--v
-181. 21
-182.a
-183. e
-l84.a
-185.8
-Comp
-.Ondu
-Softi,
-186. r
-ĹŠ7.(
-158.1
-V
-_59.5
-190.5
-L91.l
-L92.]
-Ĺ93.‹
-Ĺ94.ž
-Ĺ95.j
-Ĺ96.‹
-Ĺ97.i
-_r)8.
-199.
-MO
-.il
-.‹'7
-* ““\
-_“_'3.
-_=,>4.
-..'.lJ.
-Ízíetz“.
-ĹJ6.
-- izk...
-"\"7
-_”`,' 5 .
-139.
-`10
-
-11. Složené perfektum, imperfektum, jednoduché perfektum
-211. Ils   (suivre) les programmes de la télé jusqu”à une heure du matin.
-212. En Amérique, Antonín Dvořák   (connaìtre) un très grand succes.
-213. Il   (pleuvoir) à verse, je suis encore tout mouillé.
-214. Nous   (sortir) pour vous dire bonjour.
-215. Il   (ouvrir) le coffre fort pour y déposer cent mille dollars.
-216. Vous lui   (permettre) d”ouvrir la fenêtre?
-217. Ils   (partir) tôt le matin.
-218. ]”... (mettre) ma nouvelle robe pour l”occasion.
-219. Il   (suffire) de le demander.
-220. Tu   (vivre) Sur un grand pied, maintenant il faut faire des économies.
-221. Il   (croire) les aider, mais il a   (produire) une catastrophe.
-222. Il y a dix ans on   (reconstruire) la cathédrale de notre Ville.
-223. En une heure la neige   (couvrir) toute la campagne.
-224. Elle   (entreprendre) ses études de mćdecine avec beaucoup de courage.
-225. Est-ce que vous   (retenir) son numéro de téléphone?
-Proveďte shodu příčestıj je-li třeba.
-226. La porte que j*ai ouvert... donnait sur le couloir.
-227. Combien de femmes a-t-il aimé...?
-228. Est-ce que vous connaissez le nom de l”homme qui vous a Suivi ..., madame?
-229. je ne vous ai pas répondu..., messieurs?
-230. Les revues sur ľarchćologie, tu les as rendu... à la bibliothèquc?
-231. Quelle marque de voiture a-t-il choisi...?
-232. Elle s”est lavé... les cheveux.
-233. Les billets que vous aveZ pris... sont à cent couronnes?
-234. La dame qui nous a tellement aidé... n”a pas voulu de rćcompense.
-235. Comment s”appelle le jeune homme qui t”a attendu... devant la porte, Monique?
-236. Vous aveZ remercié... votre maìtresseř Non, nous ne l'avons pas remercié... _
-237. Les poésies qu)il a écrit... à Venise sont d”une beauté extraordinaire.
-238. Quelles bêtises il nous a raconté...!
-239. Tu lui a montré... tes photos?
-240. On a démoli... la maison que j”ai habité... dans mon enfance.
-241. Quels repas ťa-t-elle servi...?
-242. Vous vous êtes rencontré... à la station de metro?
-243. Combien de langues a-t-il appris... pendant son séjour en Europe orientale?
-244. Cette jupe en coton, je l'ai portć... tout l'été.
-245. Est-ce qu”ils vous ont offert... quelque chose ČI manger?
-246. Heureusement je n”ai pas besoin des clés que j”ai oublić... à la maison.
-247. Quelle bouteille avez-vous bu...?
-248. Laquelle de ces jeunes filles ton frère a-t-il tellement aimé...?
-249. Votre reportage que j”ai lu... dans Le Monde est franchement excellent.
-250. Monsieur le ministre, est-ce que vous êtes revenu... satisfait de votre visite officielle en
-Russie?
-251. Ils ne se sont pas vu... depuis longtemps.
 1 56 Cvičebnice francouzské gramat/'ky
 211.
 212.
