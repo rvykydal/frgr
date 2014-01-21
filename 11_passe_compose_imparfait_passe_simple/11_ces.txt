@@ -355,101 +355,40 @@ Vous (recevoir) des lettres tous les jours?
 Tu (partir) tous les matins travailler.
 Il (tenir) le stylo de la main gauche.
 Nous (apercevoir) une grande agitation au bord du bateau.
-HERE
-Přeložte. Rozhodněte Se, ve které větě z daně dvojice použijete složené perfe/ati/zm ćz ve /ete
-rě imperfe/etzzım.
-316
-317
-318
-319
-320
-321
-322
-323
-a) Pil jen nejlepší vína.
-b) Propil celý plat.
-a) Slyšeli jste už mluvit O ]. Y Cousteauovi?
-b) Viděl ještě dobře, ale slyšel špatně.
-a) Před čtrnácti dny jsem se procházel po nábřežích Seiny se svou pařížskou přítelkyní
-b) Procházel jsem se V lese a najednou jsem před sebou uviděl velkého jelena.
-a) Nahrál jsi mi nějaké pěkné písničky?
-b) Nahrával filmy na video a pak je prodával.
-a) Každou sobotu jsme odjížděli na chalupu.
-b) Odjel na služební cestu.
-a) Vystoupili Z auta a zamířili k baru.
-b) Vystupoval jsem vždy ve stejné stanici.
-a) Obvykle se vracel Z práce po půl šesté.
-b) Děti se vrátily Z výletu do hor opálené a spokojené.
-a) Kolik bylo hodin, když ses probudil?
-b) Nepotřeboval budík, budil se sám.
-1 60 Cvíćebnfce francouzské gramaľ/ky
+#Přeložte. Rozhodněte se, ve které větě z dané dvojice použijete složené perfektum a ve které imperfektum.
+#!le passé composé ou l'imparfait
+a) Pil jen nejlepší vína.  b) Propil celý plat.
+a) Slyšeli jste už mluvit o ]. Y Cousteauovi?  b) Viděl ještě dobře, ale slyšel špatně.
+a) Před čtrnácti dny jsem se procházel po nábřežích Seiny se svou pařížskou přítelkyní b) Procházel jsem se v lese a najednou jsem před sebou uviděl velkého jelena.
+a) Nahrál jsi mi nějaké pěkné písničky?  b) Nahrával filmy na video a pak je prodával.
+a) Každou sobotu jsme odjížděli na chalupu.  b) Odjel na služební cestu.
+a) Vystoupili z auta a zamířili k baru.  b) Vystupoval jsem vždy ve stejné stanici.
+a) Obvykle se vracel z práce po půl šesté.  b) Děti se vrátily z výletu do hor opálené a spokojené.
+a) Kolik bylo hodin, když ses probudil?  b) Nepotřeboval budík, budil se sám.
+#11. Složené perfektum, imperfektum, jednoduché perfektum
+#162 - Cvičebnice francouzské gramatiky
+a) Vyšel z domu ve čtvrt na šest.  b) Chodili jste často z domu?
+a) Tento zákazník platil šekem?  b) Platili jsme nájem vždy prvního v měsíci.
+a) Když jsme se vrátili domů, bylo třeba všechno uklidit.  b) Bylo třeba říci to včas.
+a) Zatelefonoval mi, protože se mnou chtěl spolupracovat.  b) Někdo mě chtěl zabít.
+a) Uměli jste udělat toto cvičení?  b) Neuměl plavat, a proto se utopil.
+a) Bylo pět hodin a já jsem mohl odejít.  b) Mohl mu pomoci, ale nechtěl.
+a) Pracoval jsem až do osmi hodin.  b) Když jsem odcházel z kanceláře, on ještě pracoval.
+a) Začal jsem se sprchovat studenou vodou, abych nechytil rýmu.  b) Bylo devět hodin, slunce začínalo hřát.
+a) Po celý minulý týden jsem byl ve špatné náladě.  b) Byl rád, že Vás vidí?
+a) Hledal jsem tvé číslo v telefonním seznamu, ale marně.  b) Babička hledala své brýle a dědeček svou dýmku.
+a) Napsal jsem několik stránek, které teď musíın znovu přečíst.  b) Naši dědečkové psali ve škole perem.
+a) Kupovala zeleninu vždy na trhu.  b) Koupil jí fritézu, ale ona ji nepoužívá.
+a) Přečetl jsem všechno, ale nepochopil jsem nic.  b) Jak se jmenuje ten detektivní román, který jsi četl včera při hodině matematiky?
+a) Můj otec vždy zpíval v koupelně.  b) Kterou roli zpíval Luciano Pavarotti v Bohémě?
+a) Když pršelo, navštěvoval jsem historické památky.  b) Navštívili jste už Starý židovský hřbitov?
+a) Vybral jsem si tuto modrou kravatu.  b) Vybíral své přátele podle peněženky.
+a) Sněžilo, když jste přijeli na hory?  b) Letos poprvé sněžilo jedenáctěho listopadu.
+a) Včera jsem celý večer odpočíval.  b) Koupali jsme se, slunili jsme se, chodili jsme na procházky: zkrátka odpočívali jsme.
+a) Co jsi přinesl?  b) Pospíchal, neboť přinášel důležitou zprávu.
+a) Čekal jsem na tebe přes hodinu.  b) Pes čekal na svého pána před obchodem.
+a) Kam jsi dal klíče?  b) Každou neděli si oblěkala své nejkrásnější šaty.
 
-1 1. Složené perfektum, ímperfektum, jednoduché perfektum
-324
-325
-326
-327.
-328
-329
-330
-331
-332
-333
-334
-335
-336
-337
-338
-339.
-340.
-341.
-342.
-343.
-344.
-a) Vyšel Z domu ve čtvrt na šest. 324
-b) Chodili jste často Z domu?
-a) Tento zál<azník platil šekem? 525,
-b) Platili jsme nájem vždy prvního V měsíci.
-a) Když jsme se vrátili domů, bylo třeba všechno uklidit. 526,
-b) Bylo třeba říci to včas.
-a) Zatelefonoval mi, protože se mnou chtěl spolupracovat. 527_
-b) Někdo mě chtěl zabít.
-a) Uměli jste udělat toto cvičení? 528_
-b) Neuměl plavat, a proto se utopil.
-a) Bylo pět hodin a já jsem mohl odejít. 529
-b) Mohl mu pomoci, ale nechtěl.
-a) Pracoval jsem až do osmi hodin. 530
-b) Když jsem odcházel Z kanceláře, on ještě pracoval.
-a) Začal jsem se sprchovat studenou vodou, abych nechytil rýmu. 531
-b) Bylo devět hodin, slunce začínalo hřát.
-a) Po celý minulý týden jsem byl ve špatné náladě. 332
-b) Byl rád, že Vás vidí?
-a) Hledal jsem tvé číslo V telefonním seznamu, ale marně.
-JJ
-b) Babička hledala Své brýle a dědeček svou dýmku.
-a) Napsal jsem několik stránek, které teď musíın Znovu přečíst. §54
-b) Naši dědečkové psali ve škole perem.
-a) Kupovala zeleninu vždy na trhu. E55
-b) Koupil jí fritézu, ale ona ji nepoužívá.
-a) Přečetl jsem všechno, ale nepochopil jsem nic. 536
-b) Jak se jmenuje ten detektivní román, který jsi četl včera při hodině matematiky?
-a) Můj otec vždy zpíval V koupelně. 37
-b) Kterou roli zpíval Luciano Pavarotti V Bohěmě?
-a) Když pršelo, navštěvoval jsem historické památky. 535
-b) Navštívili jste už Starý židovský hřbitov?
-a) Vybral jsem si tuto modrou kravatu. C
-J,
-b) Vybíral své přátele podle peněženky.
-a) Sněžilo, když jste přijeli na hory? É-H
-b) Letos poprvé sněžilo jedenáctěho listopadu.
-a) Včera jsem celý večer odpočíval. 34
-b) Koupali jsme se, slunili jsme se, chodili jsme na procházky: zkrátka odpočívali jsme.
-a) Co jsi přinesl? 54
-b) Pospíchal, neboť přinášel důležitou zprávu.
-a) Čekal jsem na tebe přes hodinu. 34
-b) Pes čekal na svého pána před obchodem.
-a) Kam jsi dal klíče? 34
-b) Každou neděli si oblěkala své nejkrásnější šaty.
 `l62 Cvićebnice francouzské gramatiky
 
 11. Složené perfektum, imperfektum, jednoduché perfektum
@@ -459,11 +398,11 @@ Inﬁnítív 1/ závorce nahraďte tvarem Složeněho perfe/atćı nebo ímpeľf
 Il   (être) déjà rard quand nous   (sortir) de la maison. Le Soleil   (briller) mais il   (ne pas
 faire) vraiment chaud. CŽ.. (être) ma premiere promenade en montagne et   (être)  Í/fois
 inquiet et excitć.
-A peine sortis du village, nous   (S”cngager) dans un chemin de pierre qui   (monter) le long
-de la forêt. La matinée   (S”annoncer) fatigante et   (avoir) peur de ne pas pouvoir arriver au
+A peine sortis du village, nous   (S'cngager) dans un chemin de pierre qui   (monter) le long
+de la forêt. La matinée   (S'annoncer) fatigante et   (avoir) peur de ne pas pouvoir arriver au
 but.
 Nous   (marcher) longtemps et puis nous   (arriver) à un endroit plus plat. Il y   (avoir) des
-fleurs partout. ]”... (lever) la tête et au loin j ”... (voir) le petit lac à côté duquel nous   (vouloirì
+fleurs partout. ]'... (lever) la tête et au loin j '... (voir) le petit lac à côté duquel nous   (vouloirì
 dejeuner. C '... (être) tres beau et je   (ne plus penser) à mes jambes lourdes et à mes pieds gon-
 flés.
 ]'... (poser) mon Sac,   (retirer) mon pull,   (prendre) mon appareil photo et je   (partir) dans
@@ -507,27 +446,27 @@ Převeďte núísledujztı' věty do jednoduchého perfeletćı (pravidelná slo
 375. La Révolution de velours a commencé le dix-sept novembre 1989.
 376. Le gouvernement a fini par céder auX exigences des grévistes.
 377. Les jeunes filles Ont rougi et se sont sauvées.
-378. Il a rćdigé ses mćmoires à l”âge de quatre-vingts ans.
-379. Sous le regime de Napoleon III, l”industrie et le Commerce ont prospére.
+378. Il a rćdigé ses mćmoires à l'âge de quatre-vingts ans.
+379. Sous le regime de Napoleon III, l'industrie et le Commerce ont prospére.
 380. Ils se sont séparés une fois pour toutes.
-381. La jeune fille m”a regardé doucement et puis elle m”a donné sa main.
+381. La jeune fille m'a regardé doucement et puis elle m'a donné sa main.
 382. Le duc a appelé le majordome et lui a Ordonnć de tout préparer pour un grand festin
 383. Ils Ont parlć pendant des heures de leurs enfances et de leurs familles.
-384. La force de l”opiniOn publique s'est révélée.
-385. Elle a change de robe trois fois avant d”être vraiment contente de son apparence.
-386. Les élèves n”Ont pas obéi aux recommandations de leurs maìtres.
+384. La force de l'opiniOn publique s'est révélée.
+385. Elle a change de robe trois fois avant d'être vraiment contente de son apparence.
+386. Les élèves n'Ont pas obéi aux recommandations de leurs maìtres.
 387. Il lui a jeté un regard furtif.
 388. Les parents Ont appelé leur enfant Yves.
 389. Le prisonnier s'est précipitć sur la porte.
 390. Le gouvernement provisoire a rétabli le suffrage universel.
 391. Il a continué de faire du bruit malgré nos protestations.
-392. Les savants ont étudié ce phénomènc plus d”une fois.
+392. Les savants ont étudié ce phénomènc plus d'une fois.
 393. Les chasseurs sont rentrćs avec un beau tableau de chasse.
 394. Leurs regards se sont croisćs.
 395. Environ trente mille personnes ont péri pendant la Terreur.
-396. Elle a pâli et s”est évanouie.
+396. Elle a pâli et s'est évanouie.
 397. Le commissaire a charge ses inspecteurs de diverses missions.
-398. Il n”a jamais agi en adulte.
+398. Il n'a jamais agi en adulte.
 399. Le vieillard a soigneusement essuyé ses lunettes.
 400. Le juge a prononcé sa condamnation devant une Salle comble.
 K nćísledujícím tvarům jednoduchého perfe/em doplňte ínfínítívy.
@@ -557,7 +496,7 @@ K nćísledujícím tvarům jednoduchého perfe/em doplňte ínfínítívy.
 Převeďte následující věty do jednoduchého perfe/etćı (nepravidelná slovesa).
 421. Victor Hugo est né en 1802.
 422. Il a été un des premiers peintres impressionistes.
-423. Elle n”a pas su lui rćpondre.
+423. Elle n'a pas su lui rćpondre.
 424. Il a reçu un grand choc.
 425
 426
@@ -587,7 +526,7 @@ Převeďte následující věty do jednoduchého perfe/etćı (nepravidelná slo
 448
 449
 450
-Il a descendu l”escalier et s”est assis à la rnême table que la jolie jeune fille.
+Il a descendu l'escalier et s'est assis à la rnême table que la jolie jeune fille.
 Les bombes ont dćtruit la Ville toute entière.
 Nos enfants ne nous ont pas attendus à la maison, ils nous Ont rejoints à Paris.
 Sa pièce de théâtre a dćçu presque tous ses admirateurs.
@@ -595,48 +534,48 @@ Il n'a pas Voulu publier Ses poèmes.
 Les ouvriers Ont obtenu un salaire injustement bas.
 Elle a lu sa lettre en pleurant.
 Leur tâche leur a paru trop difficile.
-Il est parti pour l”Angleterre.
+Il est parti pour l'Angleterre.
 En 1938 les Tchèques Ont Cru leurs alliés.
 Il a fallu se décider.
 Il y a eu un long Silence.
 Au quatorzième sièele, Prague est devenue une des villes européennes les plus importantes
 Après sa banqueroute il a Vécu des moments Vraiment difficiles.
 Elle a mis ses bijoux les plus prćeieux.
-Les prophètes de l”Ancien Testament ont prédit la naissance du Messie.
+Les prophètes de l'Ancien Testament ont prédit la naissance du Messie.
 Ses yeux bleu clair et ses cheveux blonds Ont plu à tous les hoınmes.
-Ils ne se sont pas défendus, ils n”ont rien pu dire.
+Ils ne se sont pas défendus, ils n'ont rien pu dire.
 Il a décrit en detail toutes les villes visitées.
 Ses lèvres Ont souri et sa main a fait un geste gracieux.
-Personne n”a compris ses paroles.
+Personne n'a compris ses paroles.
 Il a dù partir tôt à son travail ce matin.
-Ce traitre n”a jamais tenu sa parole
+Ce traitre n'a jamais tenu sa parole
 168 CV/Čebnıˇce francouzské gramatiky
 
 11. Složené perfektum, imperfektum, jednoduché perfektum
 451. Sa démission a satisfait le peuple révolté.
-452. Don Quichotte s”est battu contre des moulins a vent.
+452. Don Quichotte s'est battu contre des moulins a vent.
 453. Les Soldats Ont énormément souffert.
 454. La direction de ľentreprise a rěduit le nombre des embauches.
 455. Il a parcouru des milliers de kilomètres.
 D.
 Doplňte do /eažděz nćísledujících vět vhodně příčestí: acquis, atteint, bouilli, conclu, con-
 quis, convćıincu, Vecousu, cueilli, děcru, fui, mor/t, moulu, plaint, tu, 1/alu.
-456 Ne Sachant pas répondre, il s”est   _
+456 Ne Sachant pas répondre, il s'est   _
 457 Grâce à ses etudes en Amerique, il a   ďénormes connaissances dans tous les domaines.
 458 Notre chien est   à ľâge de quinze ans.
-459 Une seconde ďinattention lui a   un mois à l”hôpital.
+459 Une seconde ďinattention lui a   un mois à l'hôpital.
 460 Est-ce que Monsieur le ministre des Finances vous a   de la nécessité de ľaugmentation
 des impôts?
 461 Pendant la plus grande inondation dans notre village, l*eau a   le premier étage.
-462 La marmite que tu cherches est dans l”évier, j”y ai   du lait.
+462 La marmite que tu cherches est dans l'évier, j'y ai   du lait.
 463 Les diplomates ont   leurs négociations sans arriver à un accord.
 464 Combien de pays Hitler a-t-il   en 1940?
 465 Le médecin a vite   la plaie pour empêcher le Sang de Couler.
 466 Elle a   des fleurs dans son jardin et en a fait un très joli bouquet.
 467 Il a   loin de sa Ville natale pour ne plus rencontrer la jeune fille qu'il avait séduite.
 468 As-tu dćjà   tout le paquet de café?
-469 Le malade s”est   de ses douleurs à tous ceux qui sont Venus le voir.
-470 Au bout de deux jours le niveau de l”eau a   et tous les habitants Ont pu rentrer dans leurs
+469 Le malade s'est   de ses douleurs à tous ceux qui sont Venus le voir.
+470 Au bout de deux jours le niveau de l'eau a   et tous les habitants Ont pu rentrer dans leurs
 maisons.
 Přeložte pomocí Složeněho perfe/eta.
 471
@@ -765,17 +704,17 @@ Přei/eďte nóísledu/ícı' věty do jednoduchčﬁžo peľfe/etćı.
 519.
 520.
 521
-Après avoir fait des centaines d”essais il a atteint son but: il a cnfin construit sa machine ČI
+Après avoir fait des centaines d'essais il a atteint son but: il a cnfin construit sa machine ČI
 remonter le temps.
-La torture même ne l”a pas contraint à dénoncer ses complices.
-Le rédacteur en chef s”est plaint de ľinefficacitě de ses journalistes.
-Il n”a convaincu personne.
+La torture même ne l'a pas contraint à dénoncer ses complices.
+Le rédacteur en chef s'est plaint de ľinefficacitě de ses journalistes.
+Il n'a convaincu personne.
 Le discours du president a conclu la session ďautomne du parlement.
 Les pirates ont conquis le navire en une demi-heure.
-Eve a cueilli la pomme qu”Adam a mangée.
-Toute l”eau a bouilli.
+Eve a cueilli la pomme qu'Adam a mangée.
+Toute l'eau a bouilli.
 Son antisémitisme a beaucoup nuit à la rćputation de Céline.
-Plus d”une fois les ouvriers ont fui leur travail.
+Plus d'une fois les ouvriers ont fui leur travail.
 Tout ČI coup la voix féminine S'est tue.
 Ses Opinions lui ont valu de graves persécutions.
 Mon pere a acquis notre maison il y a vingt ans.
@@ -785,27 +724,27 @@ Ses ennemis l'ont détenu en prison pendant quatre ans.
 
 11. Složené perfektum, imperfektum, jednoduché perfektum
 522. Beaucoup de personnes ont souscrit à la grande encyclopédie en couleurs.
-523. Le maitre n”a pas omis de punir le chien désobéissant.
+523. Le maitre n'a pas omis de punir le chien désobéissant.
 524. Sa cheville gracieuse a transparu au travers de sa longue robe.
-525. Au bout d”une longue réflexion il a conçu un projet fantastique.
+525. Au bout d'une longue réflexion il a conçu un projet fantastique.
 Inﬁnitiv U závorce nćıhrćıďte tvarem jednoduchého perfe/em, imperfektćı nebo Složeněho
 perfeletćı.
 Ilhomme   (approcher) doucement du mur de pierre qui   (entourer) le jardin,   (rester)
-quelques instants Sans bouger et puis, d”un seul coup, il   (se décider) à escalader. Quelques se-
-condes plus tard, il   (être) de l”autre côtć du mur, au milieu d”une pelouse bien tondue. Tout
+quelques instants Sans bouger et puis, d'un seul coup, il   (se décider) à escalader. Quelques se-
+condes plus tard, il   (être) de l'autre côtć du mur, au milieu d'une pelouse bien tondue. Tout
   (être) calme et sombre,“les nuages   (Voiler) le clair de lune. Il   (ne pas perdre) de temps et
   (continuer) à petits pas rapidcs Vers la grande bâtisse. Il   (savoir) exactement où se diriger,
 il   (Vouloir) maintenant pćnćtrer dans la maison par la porte de derrière. CŽ.. (être) une Vieille
 porte avec une vitre qu°il   (casser) facilement, trop facilement peut-être, car quelques
 morceaux de Verres   (tomber) par terre et le bruit lui   (paraitre) assourdissant. Il   (serrer)
-les dents,   (ćcouter) mais   (ıťentendre) aucun bruit, tout le monde   (dormir). Il   (n”y
-avoir) qu”un couloir entre la porte et le Salon où   (se trouver) les deux tableaux qu”il   (con-
+les dents,   (ćcouter) mais   (ıťentendre) aucun bruit, tout le monde   (dormir). Il   (n'y
+avoir) qu'un couloir entre la porte et le Salon où   (se trouver) les deux tableaux qu'il   (con-
 voiter). Il   (sortir) sa lampe de poclıe,   (éclairer) et   (voir) la porte du salon ouverte. Il  
-(s”approcl1er) doucement,   (rentreř) dans la piece et   (chercher) avec le faisceau de la lampe
-les tableaux. Rien, il   (n”y avoir) rien. Seules quelques reproductions   (pendre) aux murs. Il
+(s'approcl1er) doucement,   (rentreř) dans la piece et   (chercher) avec le faisceau de la lampe
+les tableaux. Rien, il   (n'y avoir) rien. Seules quelques reproductions   (pendre) aux murs. Il
   (rester) là, pantois, ne Sachant quoi penser, quand il   (entendre) un lćger bruit: <‹Quelqu,un
-  (se réveiller), j”... (faire) trop de bruit›› pensa-t-il. Il   (vouloir) sortir mais il   (être) trop tard.
-La lumière   (S”allumer). Un homme le   (regarder) du haut de l”eSCalier et   (pointer) un
+  (se réveiller), j'... (faire) trop de bruit›› pensa-t-il. Il   (vouloir) sortir mais il   (être) trop tard.
+La lumière   (S'allumer). Un homme le   (regarder) du haut de l'eSCalier et   (pointer) un
 revolver vers lui.
 174 Cvičebnice francouzské gramatiky
 Š _\ Iette;

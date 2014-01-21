@@ -282,6 +282,7 @@ bue
 aimée
 lu
 revenu
+vuXXX
 #11. Le passé composé, l'imparfait, le passé simple
 #159 - Cvičebnice francouzské gramatiky
 vendus
@@ -354,101 +355,39 @@ receviez
 partais
 tenait
 apercevions
-
-Traduisez et déterminez pour chaque phrase si c”est le passé composé ou l imparfait qui
-Jonvzent.
-316. a) Il ne buvait que les meilleurs vins.
-317
-318
-319
-320
-321
-322
-323
-b) Il a bu tout son salaire.
-a) Est-ce que vous avez déjà entendu parler de J. Y Cousteau?
-b) Il voyait encore bien mais il entendait mal.
-a) Il y a quinze jours je me suis promené sur les quais de la Seine avec mon amie parisi-
-CIIIIC.
-b) ]e me promenais dans la forêt et, tout à coup, j”ai vu un grand cerf devant moi.
-a Est-ce ue tu m”as enre istré uel ues 'olies chansons?
-Cl S fl Cl 1
-b) Il enregistrait des films au magnétoscope et ensuite il les vendait.
-a) Chaque samedi nous partions pour notre maison de campagne.
-b) Il est parti en voyage d'affaires.
-a) Ils sont descendus de la voiture et se sont dirigés vers le bar.
-b) ]e descendais toujours à la même station.
-a) D”habitude il rentrait de son travail après cinq heures et demie.
-b) Les enfants sont rentrés de l'excursion a la montagne bronzés et contents.
-a) Quelle heure était-il quand tu t”es réveillé?
-b) Il n,avait pas besoin de réveil, il se réveillait tout seul.
-Cv/óebnice francouzské gramatiky 16)
-
-324
-125
-326
-327
-ÀZ8
-329
-330
-331
-332
-333
-334
-335
-336
-337
-338
-339
-340
-341
-342
-343
-344
-1 1. Le passé composé, Pimparfait, le passé simple
-a) Il est sorti de la maison à cinq heures et quart.
-b) Est-ce que vous sortiez souvent?
-a) Est-ce que ce client a payé par chèque?
-b) Nous payions toujours notre loyer le premier du mois.
-a) Quand nous sommes rentrés à la maison, il a fallu tout ranger.
-b) Il fallait le dire à temps.
-a) Il m'a téléphoné parce qu”il voulait collaborer avec moi.
-b) Quelqu”un a voulu me tuer.
-a) Est-ce que vous avez su faire cet exercice?
-b) Il ne savait pas nager, c”est pourquoi il s'est noyé.
-a) Il était cinq heures et j'ai pu partir.
-b) Il pouvait l”aider, mais il ne voulait pas.
-a) ]'ai travaillé jusqu”à huit heures.
-b) Quand je partais du bureau, lui, il travaillait encore.
-a) ]°ai commencé à me doucher avec de l°eau froide pour ne pas attraper un rhume.
-b) Il était neuf heures, le soleil commençait à chauffer.
-a) Pendant toute la semaine passée j,ai été de mauvaise humeur.
-b) Est-ce qu'il était content de vous voir?
-a) ]'ai cherché ton numéro dans l”annuaire mais en vain.
-b) La grand-mère cherchait ses lunettes et le grand-père sa pipe.
-a) ]”ai écrit plusieurs pages que je dois relire maintenant.
-b) Nos grand-pères écrivaient à l”école avec une plume.
-a) Elle achetait toujours ses légumes au marché.
-b) Il lui a acheté une friteuse, mais elle ne s”en sert pas.
-a) fai tout lu, mais je n'ai rien compris. `
-b) Comment s'appelle le roman policier que tu lisais hier pendant le cours de maths?
-a) Mon père chantait toujours dans la salle de bains.
-b) Quel rôle Luciano Pavarotti a-t-il chanté dans La Bohème?
-a) Quand il pleuvait, je visitais des monuments historiques.
-b) Est-ce que vous avez déjà visité le Vieux cimetière juif?
-a) ]”ai choisi cette cravate bleu.
-b) Il choisissait ses amis d'après leur portefeuille.
-a) Est-ce qu”il neigeait quand vous êtes arrivés à la montagne?
-b) Cette année il a neige pour la première fois le onze novembre.
-a) Hier je me suis reposé toute la soirée.
-b) Nous nous baignions, nous prenions le soleil, nous faisions des promenades: bref, nous
-nous reposions.
-a) Qu”est-ce que tu as apporté?
-b) Il se dépêchait car il apportait une nouvelle importante.
-a) ]e t°ai attendu plus d”une heure.
-b) Le chien attendait son maître devant le magasin.
-a) Où est-ce que tu as mis les clés?
-b) Chaque dimanche, elle mettait sa plus belle robe.
+#Traduisez et déterminez pour chaque phrase si c'est le passé composé ou l'imparfait qui convient.
+#!le passé composé ou l'imparfait
+a) Il ne buvait que les meilleurs vins.  b) Il a bu tout son salaire.
+a) Est-ce que vous avez déjà entendu parler de J. Y Cousteau?  b) Il voyait encore bien mais il entendait mal.
+a) Il y a quinze jours je me suis promené sur les quais de la Seine avec mon amie parisienne b) ]e me promenais dans la forêt et, tout à coup, j'ai vu un grand cerf devant moi.
+a) Est-ce ue tu m'as enregistré quelques jolies chansons?  b) Il enregistrait des films au magnétoscope et ensuite il les vendait.
+a) Chaque samedi nous partions pour notre maison de campagne.  b) Il est parti en voyage d'affaires.
+a) Ils sont descendus de la voiture et se sont dirigés vers le bar.  b) ]e descendais toujours à la même station.
+a) D'habitude il rentrait de son travail après cinq heures et demie.  b) Les enfants sont rentrés de l'excursion a la montagne bronzés et contents.
+a) Quelle heure était-il quand tu t'es réveillé?  b) Il n'avait pas besoin de réveil, il se réveillait tout seul.
+#11. Le passé composé, l'imparfait, le passé simple
+#163 - Cvičebnice francouzské gramatiky
+a) Il est sorti de la maison à cinq heures et quart.  b) Est-ce que vous sortiez souvent?
+a) Est-ce que ce client a payé par chèque?  b) Nous payions toujours notre loyer le premier du mois.
+a) Quand nous sommes rentrés à la maison, il a fallu tout ranger.  b) Il fallait le dire à temps.
+a) Il m'a téléphoné parce qu'il voulait collaborer avec moi.  b) Quelqu'un a voulu me tuer.
+a) Est-ce que vous avez su faire cet exercice?  b) Il ne savait pas nager, c'est pourquoi il s'est noyé.
+a) Il était cinq heures et j'ai pu partir.  b) Il pouvait l'aider, mais il ne voulait pas.
+a) ]'ai travaillé jusqu'à huit heures.  b) Quand je partais du bureau, lui, il travaillait encore.
+a) ]'ai commencé à me doucher avec de l'eau froide pour ne pas attraper un rhume.  b) Il était neuf heures, le soleil commençait à chauffer.
+a) Pendant toute la semaine passée j,ai été de mauvaise humeur.  b) Est-ce qu'il était content de vous voir?
+a) ]'ai cherché ton numéro dans l'annuaire mais en vain.  b) La grand-mère cherchait ses lunettes et le grand-père sa pipe.
+a) ]'ai écrit plusieurs pages que je dois relire maintenant.  b) Nos grand-pères écrivaient à l'école avec une plume.
+a) Elle achetait toujours ses légumes au marché.  b) Il lui a acheté une friteuse, mais elle ne s'en sert pas.
+a) J'ai tout lu, mais je n'ai rien compris.  b) Comment s'appelle le roman policier que tu lisais hier pendant le cours de maths?
+a) Mon père chantait toujours dans la salle de bains.  b) Quel rôle Luciano Pavarotti a-t-il chanté dans La Bohème?
+a) Quand il pleuvait, je visitais des monuments historiques.  b) Est-ce que vous avez déjà visité le Vieux cimetière juif?
+a) ]'ai choisi cette cravate bleu.  b) Il choisissait ses amis d'après leur portefeuille.
+a) Est-ce qu'il neigeait quand vous êtes arrivés à la montagne?  b) Cette année il a neige pour la première fois le onze novembre.
+a) Hier je me suis reposé toute la soirée.  b) Nous nous baignions, nous prenions le soleil, nous faisions des promenades: bref, nous nous reposions.
+a) Qu'est-ce que tu as apporté?  b) Il se dépêchait car il apportait une nouvelle importante.
+a) ]e t'ai attendu plus d'une heure.  b) Le chien attendait son maître devant le magasin.
+a) Où est-ce que tu as mis les clés?  b) Chaque dimanche, elle mettait sa plus belle robe.
 Cv/óebnice francouzské gramat/ky 163
 
 e pas
@@ -476,7 +415,7 @@ avait, voulais
 rﬁavais pas
 C.
 Iïaduisez en utilisant le passé composé.
-346 Son dernier film m”a beaucoup déçu.
+346 Son dernier film m'a beaucoup déçu.
 347
 348
 349
@@ -501,26 +440,26 @@ Iïaduisez en utilisant le passé composé.
 368
 Notre voisin a disparu mystérieusement.
 Sous quel signe es-tu née?
-Combien d°argent est-ce que vous avez obtenu de vos
+Combien d'argent est-ce que vous avez obtenu de vos
 Ilépargne-logement a résolu tous nos problèmes.
-Elle s”est assise au premier rang.
+Elle s'est assise au premier rang.
 Est-ce que vous avez bien dormi?
 Après le déjeuner, je me suis senti un peu lourd.
 Est-ce que Rembrandt a peint beaucoup de portraits?
-]e suis sûr qu”elle m”a souri au moins une fois.
-Il m°a interdit de parler avec d”auttes hommes.
+]e suis sûr qu'elle m'a souri au moins une fois.
+Il m'a interdit de parler avec d'auttes hommes.
 Tu as détruit ma vie.
-Cet événement s'est inscrit dans l”l1istoite.
+Cet événement s'est inscrit dans l'l1istoite.
 ]'ai prévu ces problèmes.
 Il a ri toute la soirée.
-Pourquoi est-ce que tu m”as distrait?
-]e ne l”ai joint qu'hier.
+Pourquoi est-ce que tu m'as distrait?
+]e ne l'ai joint qu'hier.
 Elle a très bien décrit le voleur.
 Il nous a transmis toutes les données.
-Il m”a paru très fatigué.
-]e ne l'ai pas satisfait et il m°a renvoyé.
+Il m'a paru très fatigué.
+]e ne l'ai pas satisfait et il m'a renvoyé.
 Le champion du monde a battu tous ses adversaires.
-_ ]”ai craint ta réaction.
+_ ]'ai craint ta réaction.
 sponsors?
 /
 CV/'ÖGCIÎÎCG francouzské gramatiky l 65
@@ -567,14 +506,14 @@ La Révolution de velours commença le dix-sept novembre 1989.
 Le gouvernement finit par céder aux exigences des grévistes.
 Les jeunes filles rougirent et se sauvèrent.
 Il rédigea ses mémoires à l'âge de quatre-vingts ans.
-Sous le régime de Napoléon III, l”industrie et le commerce prospérèrent.
+Sous le régime de Napoléon III, l'industrie et le commerce prospérèrent.
 Ils se séparèrent une fois pour toutes.
 La jeune fille me regarda doucement et puis elle me donna sa main.
 Le duc appela le majordome et lui ordonna de tout préparer pour un grand festin.
 Ils parlèrent pendant des heures de leurs enfances et de leurs familles.
-La force de l”opinion publique se révéla.
-Elle changea de robe trois fois avant d”être vraiment contente de son apparence.
-Les élèves n”obéirent pas aux recommandations de leurs maîtres.
+La force de l'opinion publique se révéla.
+Elle changea de robe trois fois avant d'être vraiment contente de son apparence.
+Les élèves n'obéirent pas aux recommandations de leurs maîtres.
 Il lui jeta un regard furtif.
 Les parents appelèrent leur enfant Yves.
 Le prisonnier se précipita sur la porte.
@@ -584,7 +523,7 @@ Les savants étudièrent ce phénomène plus d*une fois.
 Les chasseurs rentrèrent avec un beau tableau de chasse.
 Leurs regards se croisèrent.
 Environ trente mille personnes périrent pendant la Terreur.
-Elle pâlit et s”évanouit.
+Elle pâlit et s'évanouit.
 Le commissaire chargea ses inspecteurs de diverses missions.
 Il niagit jamais en adulte.
 Le vieillard essuya soigneusement ses lunettes.
@@ -630,7 +569,7 @@ _\/Iettez les phrases suivantes au passé simple (verbes irréguliers).
 425 Un héros de Jules Verne fit le tour du monde en quatre-vingts jours.
 426 Le roi et la reine prirent un carrosse splendide.
 427 La mère et la fille vinrent au bal vêtues de longues robes de soie gris argent.
-428 Il descendit l”escalier et s'assit à la même table que la jolie jeune fille.
+428 Il descendit l'escalier et s'assit à la même table que la jolie jeune fille.
 429 Les bombes détruisirent la ville toute entière.
 430 Nos enfants ne nous attendirent pas à la maison, ils nous rejoignirent à Paris.
 431 Sa pièce de théâtre déçut presque tous ses admirateurs.
@@ -638,14 +577,14 @@ _\/Iettez les phrases suivantes au passé simple (verbes irréguliers).
 433 Les ouvriers obtinrent un salaire injustement bas.
 434 Elle lut sa lettre en pleurant.
 435 Leur tâche leur parut trop difficile.
-436 Il partit pour l”Angleterre.
+436 Il partit pour l'Angleterre.
 437 En 1938 les Tchèques crurent leurs alliés.
 438 Il fallut se décider.
 439 Il y eut un long silence.
 440 Au quatorzième siècle, Prague devint une des villes européennes les plus importantes.
 441 Après sa banqueroute il vécut des moments vraiment difficiles.
 442 Elle mit ses bijoux les plus précieux.
-443 Les prophètes de l”Ancien Testament prédirent la naissance du Messie.
+443 Les prophètes de l'Ancien Testament prédirent la naissance du Messie.
 444 Ses yeux bleu clair et ses cheveux blonds plurent à tous les hommes.
 445 Ils ne se défendirent pas, ils ne purent rien dire.
 446 Il décrivit en détail toutes les villes visitées.
@@ -689,9 +628,9 @@ passé composé.
 471. De quoi est-ce que votre grand-père est mort?
 472. Ils nous ont accueillis à bras ouverts.
 473. Le meunier a moulu notre farine en un après-midi.
-474. La mère s”est plainte de son fils.
+474. La mère s'est plainte de son fils.
 475. Alexandre Le Grand a conquis presque le monde entier.
-476. Vous ne m°aveZ pas convaincu.
+476. Vous ne m'aveZ pas convaincu.
 477. Il a tu son état de santé à sa famille.
 478. Nous avons finalement atteint notre but.
 479. Ta décision m'a valu beaucoup de larmes.
@@ -699,7 +638,7 @@ passé composé.
 481. Uindustrie a beaucoup nuit à l'environnement.
 482. Elle a cousu sa robe
 483. Elle a bouilli tout le
-484. ]e n”ai pas perçu les
+484. ]e n'ai pas perçu les
 485. Quand est-ce que le
 toute seule.
 linge blanc.
@@ -717,12 +656,12 @@ iine à
 489
 490
 1 1. Le passé composé, Fimparfait, le passé simple
-Nous avons acquis les droits d”auteur sur ce livre.
+Nous avons acquis les droits d'auteur sur ce livre.
 . Grâce à des spéculations, il a considérablement accru sa fortune.
 _ Il m'a secouru dans les moments les plus difficiles de ma vie.
-]”ai exclu sa participation d°avance.
+]'ai exclu sa participation d'avance.
 . Uété a fui vite.
-Iradaisez en faisant attention a Fatilisation correcte da passé composé et de l”irnparfait.
+Iradaisez en faisant attention a Fatilisation correcte da passé composé et de l'irnparfait.
 491
 492
 493
@@ -737,20 +676,20 @@ Iradaisez en faisant attention a Fatilisation correcte da passé composé et de 
 502
 503
 504
-Quand j”ai découvert cette île, je pensais être le premier.
-]e skiais souvent auparavant, mais je me suis cassé la jambe, et maintenant j”ai un peu peur.
+Quand j'ai découvert cette île, je pensais être le premier.
+]e skiais souvent auparavant, mais je me suis cassé la jambe, et maintenant j'ai un peu peur.
 Il faisait beau ce matin, et puis, tout à coup, les nuages se sont accumulés dans le ciel.
-Quand j”étais enfant, je devais partir en vacances avec mes parents, mais à dix-huit ans j'ai
-décidé d”aller seul en Italie.
-]”ai attrapé un rhume hier, pourtant il faisait assez chaud.
-Mon voisin partait au travail tous les jours très tôt le matin jusqu”au jour où il a perdu son
+Quand j'étais enfant, je devais partir en vacances avec mes parents, mais à dix-huit ans j'ai
+décidé d'aller seul en Italie.
+]'ai attrapé un rhume hier, pourtant il faisait assez chaud.
+Mon voisin partait au travail tous les jours très tôt le matin jusqu'au jour où il a perdu son
 emploi.
-_ ]”avais beaucoup d”argent, mais il y a deux ans je me suis retrouvé sans argent à cause d'un
+_ ]'avais beaucoup d'argent, mais il y a deux ans je me suis retrouvé sans argent à cause d'un
 mauvais investissement.
-Zola était mon écrivain préféré jusqu,au jour où j”ai lu ]oyce.
-Ce pays était riche, mais les guerres l”ont ruiné.
-]”aimais bien manger, malheureusement, mon docteur me l”a interdit.
-Les rues étaient vides, tout était calme quand, au loin, j”ai vu un homme.
+Zola était mon écrivain préféré jusqu,au jour où j'ai lu ]oyce.
+Ce pays était riche, mais les guerres l'ont ruiné.
+]'aimais bien manger, malheureusement, mon docteur me l'a interdit.
+Les rues étaient vides, tout était calme quand, au loin, j'ai vu un homme.
 Est-ce que tu as travaillé pendant que je dormais?
 Les fenêtres étaient ouvertes, est-ce que tu les as fermées?
 Le film était trop long, et je me suis endormi.
@@ -775,14 +714,14 @@ Mettez les phrases suivantes aa passé simple.
 _ Après avoir fait des centaines d'essais il atteignit son but: il construisit enfin sa machine à
 remonter le temps.
 La torture même ne le contraignit pas à dénoncer ses complices.
-Le rédacteur en chef se plaignit de l”inefficacité de ses journalistes.
+Le rédacteur en chef se plaignit de l'inefficacité de ses journalistes.
 Il ne convainquit personne.
-Le discours du président conclut la session d”automne du parlement.
+Le discours du président conclut la session d'automne du parlement.
 Les pirates conquirent le navire en une demi-heure.
-Eve cueillit la pomme qu”Adam mangea.
-. Toute l”eau bouillit.
+Eve cueillit la pomme qu'Adam mangea.
+. Toute l'eau bouillit.
 Son antisémitisme nuisit beaucoup E1 la réputation de Céline.
-Plus d”une fois les ouvriers fuirent leur travail.
+Plus d'une fois les ouvriers fuirent leur travail.
 . Tout à coup la voix féminine se tut.
 Ses opinions lui valurent de graves persécutions.
 Mon père acquit notre maison il y a vingt ans.
@@ -804,14 +743,14 @@ _ (con-
 e. Il  
 lampe
 iurs. Il
-lqu°un
+lqu'un
 p tard.
 er) un
 1 1. Le passé composé, Pimparfait, le passé simple
 322. Beaucoup de personnes souscrivirent à la grande encyclopédie en couleurs.
-523. Le maître n”omit pas de punir le chien désobéissant.
+523. Le maître n'omit pas de punir le chien désobéissant.
 324. Sa cheville gracieuse transparut au travers de sa longue robe.
-ï25. Au bout d”une longue réflexion il conçut un projet fantastique.
+ï25. Au bout d'une longue réflexion il conçut un projet fantastique.
 Mettez l'in/'inítif entre parenthèses au passé simple, à lïmparfaít ou au passé composé.
 approcha, entourait, resta
 se décida
@@ -821,13 +760,13 @@ zontinua, savait
 voulait, était
 :assa
 ïombèrent, parut, serra
-écouta, n'entendit, dormait, n°y avait
+écouta, n'entendit, dormait, n'y avait
 se trouvaient, convoitait
-sortit, éclaira, vit, s”approcha
+sortit, éclaira, vit, s'approcha
 rentra, chercha
-n°y avait, pendaient
+n'y avait, pendaient
 restait, entendit
-5”est réveillé, ai fait, voulut, était
+5'est réveillé, ai fait, voulut, était
 äalluma, regardait, pointait
 Cvióebnice francouzské gramat/Ky l 75
 
