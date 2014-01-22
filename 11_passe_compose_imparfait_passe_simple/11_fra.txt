@@ -2,7 +2,7 @@
 #145 - Cvičebnice francouzské gramatiky
 #Mettez les phrases suivantes au passé composé (verbes réguliers).
 #! -> passé composé
-]'ai cherché ma revue.
+J'ai cherché ma revue.
 Ils ont joué au basket.
 Tu es rentré(e) à temps.
 Tu as choisi cette montre?
@@ -11,7 +11,7 @@ Elle est montée dans sa voiture.
 Ils ont acheté des choses inutiles.
 Tu as fini avant midi.
 Vous avez travaillé avec mon mari?
-]'ai rencontré les Picard.
+J'ai rencontré les Picard.
 Tu as appelé Madeleine?
 Nous sommes arrivé(e)s trop tard.
 Ils sont entrés dans un bar.
@@ -19,12 +19,12 @@ Vous avez habité près de la gare?
 #11. Le passé composé, l'imparfait, le passé simple
 #147 - Cvičebnice francouzské gramatiky
 Nous avons aidé nos grand-parents.
-]'ai téléphoné à la maison.
+J'ai téléphoné à la maison.
 Il a étudié le russe?
 Tu es resté(e) avec elle?
 Comment est-ce qu'elle a réagi?
 Nous avons réfléchi à notre avenir.
-]'ai espéré arriver à temps.
+J'ai espéré arriver à temps.
 Tu es passé(e) chez ta grand-mère?
 Vous avez changé de place?
 Tu as préféré rester chez toi?
@@ -32,8 +32,8 @@ Nous avons commencé à faire du ski.
 Elle a dansé seulement avec son mari.
 Vous avez corrigé votre travail?
 Elle a préparé un bon dîner.
-]'ai copié ce tableau.
-]'ai frappé à la porte mais personne n'a répondu.
+J'ai copié ce tableau.
+J'ai frappé à la porte mais personne n'a répondu.
 #Mettez l'infinitif entre parenthèses au passé composé.
 #!-> passé composé
 me suis promené(e)
@@ -83,23 +83,23 @@ Je l'ai déjà lu.
 Il l'a déjà visité.
 Nous lui avons déjà téléphoné.
 Ils l'ont déjà vu.
-]e l'ai déjà regardé.
+Je l'ai déjà regardé.
 Il l'a déjà consulté.
 Nous l'avons déjà préparé.
-]e lui ai déjà écrit.
+Je lui ai déjà écrit.
 Nous lui avons déjà répondu.
 Il l'a déjà étudié.
 Il l'a déjà appris.
 Ils l'ont déjà acheté.
-]e l'ai déjà corrigé.
+Je l'ai déjà corrigé.
 Nous l'avons déjà vendu.
 Elles l'ont déjà reçu.
 Il l'a déjà dessiné.
 je lui ai déjà parlé.
 Nous l'avons déjà demandé.
-]e l'ai déjà pris.
+Je l'ai déjà pris.
 Nous l'avons déjà mangé.
-]e l'ai déjà présenté.
+Je l'ai déjà présenté.
 Nous l'avons déjà fermé.
 je l'ai déjà épousé.
 Ils l'ont déjà photographié.
@@ -163,7 +163,7 @@ A quelle heure t'es-tu réveillée?
 J'ai fait de l'athlétisme et du tennis.
 Avec qui est-ce que tu est allée au cinéma?
 Il a eu dix-huit ans le cinq juillet.
-]e n'ai pas pu vous aider, j'ai été malade.
+Je n'ai pas pu vous aider, j'ai été malade.
 Nous n'avons pas voulu te déranger.
 Le professeur est entré dans la classe à huit heures cinq.
 Je suis resté dans mon bureau.
@@ -171,7 +171,7 @@ Nous vous avons attendu mais vous n'êtes pas venu.
 Il est devenu un excellent footballeur.
 Quand est-ce que vous l'avez vu pour la dernière fois?
 Est-ce que vous avez reçu mon télégramme?
-]'ai dû aller à pied, c'est pourquoi je suis arrivé trop tard.
+J'ai dû aller à pied, c'est pourquoi je suis arrivé trop tard.
 Où est-ce que vous êtes tombée, Mademoiselle Desport?
 Ce matin mon mari est paresseux, j'ai dû lui apporter son petit déjeuner au lit.
 Ils n'ont pas voulu nous dire la vérité.
@@ -359,10 +359,10 @@ apercevions
 #!le passé composé ou l'imparfait
 a) Il ne buvait que les meilleurs vins.  b) Il a bu tout son salaire.
 a) Est-ce que vous avez déjà entendu parler de J. Y Cousteau?  b) Il voyait encore bien mais il entendait mal.
-a) Il y a quinze jours je me suis promené sur les quais de la Seine avec mon amie parisienne b) ]e me promenais dans la forêt et, tout à coup, j'ai vu un grand cerf devant moi.
+a) Il y a quinze jours je me suis promené sur les quais de la Seine avec mon amie parisienne b) Je me promenais dans la forêt et, tout à coup, j'ai vu un grand cerf devant moi.
 a) Est-ce ue tu m'as enregistré quelques jolies chansons?  b) Il enregistrait des films au magnétoscope et ensuite il les vendait.
 a) Chaque samedi nous partions pour notre maison de campagne.  b) Il est parti en voyage d'affaires.
-a) Ils sont descendus de la voiture et se sont dirigés vers le bar.  b) ]e descendais toujours à la même station.
+a) Ils sont descendus de la voiture et se sont dirigés vers le bar.  b) Je descendais toujours à la même station.
 a) D'habitude il rentrait de son travail après cinq heures et demie.  b) Les enfants sont rentrés de l'excursion a la montagne bronzés et contents.
 a) Quelle heure était-il quand tu t'es réveillé?  b) Il n'avait pas besoin de réveil, il se réveillait tout seul.
 #11. Le passé composé, l'imparfait, le passé simple
@@ -373,95 +373,54 @@ a) Quand nous sommes rentrés à la maison, il a fallu tout ranger.  b) Il falla
 a) Il m'a téléphoné parce qu'il voulait collaborer avec moi.  b) Quelqu'un a voulu me tuer.
 a) Est-ce que vous avez su faire cet exercice?  b) Il ne savait pas nager, c'est pourquoi il s'est noyé.
 a) Il était cinq heures et j'ai pu partir.  b) Il pouvait l'aider, mais il ne voulait pas.
-a) ]'ai travaillé jusqu'à huit heures.  b) Quand je partais du bureau, lui, il travaillait encore.
-a) ]'ai commencé à me doucher avec de l'eau froide pour ne pas attraper un rhume.  b) Il était neuf heures, le soleil commençait à chauffer.
+a) J'ai travaillé jusqu'à huit heures.  b) Quand je partais du bureau, lui, il travaillait encore.
+a) J'ai commencé à me doucher avec de l'eau froide pour ne pas attraper un rhume.  b) Il était neuf heures, le soleil commençait à chauffer.
 a) Pendant toute la semaine passée j,ai été de mauvaise humeur.  b) Est-ce qu'il était content de vous voir?
-a) ]'ai cherché ton numéro dans l'annuaire mais en vain.  b) La grand-mère cherchait ses lunettes et le grand-père sa pipe.
-a) ]'ai écrit plusieurs pages que je dois relire maintenant.  b) Nos grand-pères écrivaient à l'école avec une plume.
+a) J'ai cherché ton numéro dans l'annuaire mais en vain.  b) La grand-mère cherchait ses lunettes et le grand-père sa pipe.
+a) J'ai écrit plusieurs pages que je dois relire maintenant.  b) Nos grand-pères écrivaient à l'école avec une plume.
 a) Elle achetait toujours ses légumes au marché.  b) Il lui a acheté une friteuse, mais elle ne s'en sert pas.
 a) J'ai tout lu, mais je n'ai rien compris.  b) Comment s'appelle le roman policier que tu lisais hier pendant le cours de maths?
 a) Mon père chantait toujours dans la salle de bains.  b) Quel rôle Luciano Pavarotti a-t-il chanté dans La Bohème?
 a) Quand il pleuvait, je visitais des monuments historiques.  b) Est-ce que vous avez déjà visité le Vieux cimetière juif?
-a) ]'ai choisi cette cravate bleu.  b) Il choisissait ses amis d'après leur portefeuille.
+a) J'ai choisi cette cravate bleu.  b) Il choisissait ses amis d'après leur portefeuille.
 a) Est-ce qu'il neigeait quand vous êtes arrivés à la montagne?  b) Cette année il a neige pour la première fois le onze novembre.
 a) Hier je me suis reposé toute la soirée.  b) Nous nous baignions, nous prenions le soleil, nous faisions des promenades: bref, nous nous reposions.
 a) Qu'est-ce que tu as apporté?  b) Il se dépêchait car il apportait une nouvelle importante.
-a) ]e t'ai attendu plus d'une heure.  b) Le chien attendait son maître devant le magasin.
+a) Je t'ai attendu plus d'une heure.  b) Le chien attendait son maître devant le magasin.
 a) Où est-ce que tu as mis les clés?  b) Chaque dimanche, elle mettait sa plus belle robe.
-Cv/óebnice francouzské gramat/ky 163
-
-e pas
-1 fois
-long
-er au
-) des
-iloir)
-gon-
-dans
-iauté
-1 1. Le passé composé, Vimparfait, le passé simple
-345. a) Pendant son séjour à Paris, il a connu plusieurs personnes très intéressantes.
-b) ]e connaissais chaque rue, chaque maison, chaque bar de ma ville.
-Remplacez l ïnfinitíf entre parenthèses par une forme du passé composé ou de lîmparfait.
-était, sommes sortis, brillait, ne faisait pas
-était, étais
-nous sommes engagés, montait
-s` annonçait, avais
-gvons marché, sommes arrivés, avait
-Ji levé, ai vu, voulions
-était, ne pensais plus
-li posé, retiré, pris, suis parti
-avait, voulais
-rﬁavais pas
-C.
-Iïaduisez en utilisant le passé composé.
-346 Son dernier film m'a beaucoup déçu.
-347
-348
-349
-350
-351
-352
-353
-354
-355
-356
-357
-358
-359
-360
-361
-362
-363
-364
-365
-366
-367
-368
+#11. Le passé composé, l'imparfait, le passé simple
+#165 - Cvičebnice francouzské gramatiky
+a) Pendant son séjour à Paris, il a connu plusieurs personnes très intéressantes.  b) Je connaissais chaque rue, chaque maison, chaque bar de ma ville.
+#Remplacez l'infinitif entre parenthèses par une forme du passé composé ou de l'imparfait.
+#! -> passé composé ou l'imparfait
+était, sommes sortis, brillait, ne faisait pas était, étais, nous sommes engagés, montait, s`annonçait, avais, avons marché, sommes arrivés, avait, ai levé, ai vu, voulions, était, ne pensais plus, ai posé, retiré, pris, suis parti, avait, voulais, n'avais pas,
+#Traduisez en utilisant le passé composé.
+#!
+Son dernier film m'a beaucoup déçu.
 Notre voisin a disparu mystérieusement.
 Sous quel signe es-tu née?
-Combien d'argent est-ce que vous avez obtenu de vos
-Ilépargne-logement a résolu tous nos problèmes.
+Combien d'argent est-ce que vous avez obtenu de vos sponsors?
+L'épargne-logement a résolu tous nos problèmes.
 Elle s'est assise au premier rang.
 Est-ce que vous avez bien dormi?
 Après le déjeuner, je me suis senti un peu lourd.
 Est-ce que Rembrandt a peint beaucoup de portraits?
-]e suis sûr qu'elle m'a souri au moins une fois.
+Je suis sûr qu'elle m'a souri au moins une fois.
 Il m'a interdit de parler avec d'auttes hommes.
 Tu as détruit ma vie.
-Cet événement s'est inscrit dans l'l1istoite.
-]'ai prévu ces problèmes.
+Cet événement s'est inscrit dans l'histoite.
+J'ai prévu ces problèmes.
 Il a ri toute la soirée.
 Pourquoi est-ce que tu m'as distrait?
-]e ne l'ai joint qu'hier.
+Je ne l'ai joint qu'hier.
 Elle a très bien décrit le voleur.
 Il nous a transmis toutes les données.
 Il m'a paru très fatigué.
-]e ne l'ai pas satisfait et il m'a renvoyé.
+Je ne l'ai pas satisfait et il m'a renvoyé.
 Le champion du monde a battu tous ses adversaires.
-_ ]'ai craint ta réaction.
-sponsors?
-/
+J'ai craint ta réaction.
+#11. Le passé composé, l'imparfait, le passé simple
+#167 - Cvičebnice francouzské gramatiky
 CV/'ÖGCIÎÎCG francouzské gramatiky l 65
 
 1 1. Le passé composé, Pimparfait, le passé simple
@@ -638,7 +597,7 @@ passé composé.
 481. Uindustrie a beaucoup nuit à l'environnement.
 482. Elle a cousu sa robe
 483. Elle a bouilli tout le
-484. ]e n'ai pas perçu les
+484. Je n'ai pas perçu les
 485. Quand est-ce que le
 toute seule.
 linge blanc.
@@ -659,7 +618,7 @@ iine à
 Nous avons acquis les droits d'auteur sur ce livre.
 . Grâce à des spéculations, il a considérablement accru sa fortune.
 _ Il m'a secouru dans les moments les plus difficiles de ma vie.
-]'ai exclu sa participation d'avance.
+J'ai exclu sa participation d'avance.
 . Uété a fui vite.
 Iradaisez en faisant attention a Fatilisation correcte da passé composé et de l'irnparfait.
 491
@@ -677,18 +636,18 @@ Iradaisez en faisant attention a Fatilisation correcte da passé composé et de 
 503
 504
 Quand j'ai découvert cette île, je pensais être le premier.
-]e skiais souvent auparavant, mais je me suis cassé la jambe, et maintenant j'ai un peu peur.
+Je skiais souvent auparavant, mais je me suis cassé la jambe, et maintenant j'ai un peu peur.
 Il faisait beau ce matin, et puis, tout à coup, les nuages se sont accumulés dans le ciel.
 Quand j'étais enfant, je devais partir en vacances avec mes parents, mais à dix-huit ans j'ai
 décidé d'aller seul en Italie.
-]'ai attrapé un rhume hier, pourtant il faisait assez chaud.
+J'ai attrapé un rhume hier, pourtant il faisait assez chaud.
 Mon voisin partait au travail tous les jours très tôt le matin jusqu'au jour où il a perdu son
 emploi.
-_ ]'avais beaucoup d'argent, mais il y a deux ans je me suis retrouvé sans argent à cause d'un
+_ J'avais beaucoup d'argent, mais il y a deux ans je me suis retrouvé sans argent à cause d'un
 mauvais investissement.
-Zola était mon écrivain préféré jusqu,au jour où j'ai lu ]oyce.
+Zola était mon écrivain préféré jusqu,au jour où j'ai lu Joyce.
 Ce pays était riche, mais les guerres l'ont ruiné.
-]'aimais bien manger, malheureusement, mon docteur me l'a interdit.
+J'aimais bien manger, malheureusement, mon docteur me l'a interdit.
 Les rues étaient vides, tout était calme quand, au loin, j'ai vu un homme.
 Est-ce que tu as travaillé pendant que je dormais?
 Les fenêtres étaient ouvertes, est-ce que tu les as fermées?
