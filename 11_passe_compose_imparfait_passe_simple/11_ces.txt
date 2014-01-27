@@ -421,172 +421,129 @@ Mistr světa porazil všechny své soupeře.
 Obával jsem se (= craindre) tvé reakce.
 #11. Složené perfektum, imperfektum, jednoduché perfektum
 #166 - Cvičebnice francouzské gramatiky
-
-11. Složené perfektum, imperfektum, jednoduché perfektum
-369. Ještě včera jsi mi lhal, a dnes tvrdíš, že říkáš pravdu?
-370. Zredukoval své potřeby na minimum.
-Převeďte núísledujztı' věty do jednoduchého perfeletćı (pravidelná slovesa).
-371. Les adversaires ont échangé quelques coups.
-372. La Premiere Guerre mondiale a ćclaté en 1914.
-373. Elle a choisi ďêtre pauvre mais honnête.
-374. Les rapports entre le gouvernement et les syndicats ne se sont pas amćliorés.
-375. La Révolution de velours a commencé le dix-sept novembre 1989.
-376. Le gouvernement a fini par céder auX exigences des grévistes.
-377. Les jeunes filles Ont rougi et se sont sauvées.
-378. Il a rćdigé ses mćmoires à l'âge de quatre-vingts ans.
-379. Sous le regime de Napoleon III, l'industrie et le Commerce ont prospére.
-380. Ils se sont séparés une fois pour toutes.
-381. La jeune fille m'a regardé doucement et puis elle m'a donné sa main.
-382. Le duc a appelé le majordome et lui a Ordonnć de tout préparer pour un grand festin
-383. Ils Ont parlć pendant des heures de leurs enfances et de leurs familles.
-384. La force de l'opiniOn publique s'est révélée.
-385. Elle a change de robe trois fois avant d'être vraiment contente de son apparence.
-386. Les élèves n'Ont pas obéi aux recommandations de leurs maìtres.
-387. Il lui a jeté un regard furtif.
-388. Les parents Ont appelé leur enfant Yves.
-389. Le prisonnier s'est précipitć sur la porte.
-390. Le gouvernement provisoire a rétabli le suffrage universel.
-391. Il a continué de faire du bruit malgré nos protestations.
-392. Les savants ont étudié ce phénomènc plus d'une fois.
-393. Les chasseurs sont rentrćs avec un beau tableau de chasse.
-394. Leurs regards se sont croisćs.
-395. Environ trente mille personnes ont péri pendant la Terreur.
-396. Elle a pâli et s'est évanouie.
-397. Le commissaire a charge ses inspecteurs de diverses missions.
-398. Il n'a jamais agi en adulte.
-399. Le vieillard a soigneusement essuyé ses lunettes.
-400. Le juge a prononcé sa condamnation devant une Salle comble.
-K nćísledujícím tvarům jednoduchého perfe/em doplňte ínfínítívy.
-401. il tint
-402. ils furent
-403. ils mirent
-404. il Vit
-405. ils eurent
-406. ils firent
-407. il revint
-408. ils plurent
-166 Cvíčebnice francouzské gramatiky
-
-1 1. Složené perfektum, imperfektum, jednoduché perfektum
-409 ils surent
-410 il remit
-411 il crut
-412 ils durent
-413 il but
-414 ils prévirent
-415 il plut
-416. il défit
-417 ils promirent
-418 ils prirent
-419. ils provinrent
-420. il refit
-Převeďte následující věty do jednoduchého perfe/etćı (nepravidelná slovesa).
-421. Victor Hugo est né en 1802.
-422. Il a été un des premiers peintres impressionistes.
-423. Elle n'a pas su lui rćpondre.
-424. Il a reçu un grand choc.
-425
-426
-. Un hćros de Jules Verne a fait le tour du monde en quatre-Vingts jours.
-. Le roi et la reine Ont pris un carrosse splendide.
-427. La mère et la fille sont Venues au bal Vêtues de longues robes de soie gris argent.
-428
-429
-430
-431
-432
-433
-434
-435
-436
-437
-438
-439
-440
-441
-442
-443
-444
-445
-446
-447.
-448
-449
-450
+Ještě včera jsi mi lhal, a dnes tvrdíš, že říkáš pravdu?
+Zredukoval své potřeby na minimum.
+#Převeďte následující věty do jednoduchého perfekta (pravidelná slovesa).
+#! -> passé simple
+Les adversaires ont échangé quelques coups.
+La Premiere Guerre mondiale a éclaté en 1914.
+Elle a choisi d'être pauvre mais honnête.
+Les rapports entre le gouvernement et les syndicats ne se sont pas améliorés.
+La Révolution de velours a commencé le dix-sept novembre 1989.
+Le gouvernement a fini par céder aux exigences des grévistes.
+Les jeunes filles ont rougi et se sont sauvées.
+Il a rédigé ses mémoires à l'âge de quatre-vingts ans.
+Sous le regime de Napoleon III, l'industrie et le commerce ont prospére.
+Ils se sont séparés une fois pour toutes.
+La jeune fille m'a regardé doucement et puis elle m'a donné sa main.
+Le duc a appelé le majordome et lui a ordonné de tout préparer pour un grand festin.
+Ils ont parlé pendant des heures de leurs enfances et de leurs familles.
+La force de l'opinion publique s'est révélée.
+Elle a change de robe trois fois avant d'être vraiment contente de son apparence.
+Les élèves n'ont pas obéi aux recommandations de leurs maìtres.
+Il lui a jeté un regard furtif.
+Les parents ont appelé leur enfant Yves.
+Le prisonnier s'est précipité sur la porte.
+Le gouvernement provisoire a rétabli le suffrage universel.
+Il a continué de faire du bruit malgré nos protestations.
+Les savants ont étudié ce phénomène plus d'une fois.
+Les chasseurs sont rentrés avec un beau tableau de chasse.
+Leurs regards se sont croisés.
+Environ trente mille personnes ont péri pendant la Terreur.
+Elle a pâli et s'est évanouie.
+Le commissaire a charge ses inspecteurs de diverses missions.
+Il n'a jamais agi en adulte.
+Le vieillard a soigneusement essuyé ses lunettes.
+Le juge a prononcé sa condamnation devant une salle comble.
+#K následujícím tvarům jednoduchého perfekta doplňte infinitivy.
+#! -> infinitif
+il tint
+ils furent
+ils mirent
+il vit
+ils eurent
+ils firent
+il revint
+ils plurent
+#11. složené perfektum, imperfektum, jednoduché perfektum
+#168 - cvičebnice francouzské gramatiky
+ils surent
+il remit
+il crut
+ils durent
+il but
+ils prévirent
+il plut
+il défit
+ils promirent
+ils prirent
+ils provinrent
+il refit
+#Převeďte následující věty do jednoduchého perfekta (nepravidelná slovesa).
+#! -> passé simple
+Victor Hugo est né en 1802.
+Il a été un des premiers peintres impressionistes.
+Elle n'a pas su lui répondre.
+Il a reçu un grand choc.
+Un héros de Jules Verne a fait le tour du monde en quatre-Vingts jours.
+Le roi et la reine ont pris un carrosse splendide.
+La mère et la fille sont venues au bal vêtues de longues robes de soie gris argent.
 Il a descendu l'escalier et s'est assis à la rnême table que la jolie jeune fille.
-Les bombes ont dćtruit la Ville toute entière.
-Nos enfants ne nous ont pas attendus à la maison, ils nous Ont rejoints à Paris.
-Sa pièce de théâtre a dćçu presque tous ses admirateurs.
-Il n'a pas Voulu publier Ses poèmes.
-Les ouvriers Ont obtenu un salaire injustement bas.
+Les bombes ont détruit la ville toute entière.
+Nos enfants ne nous ont pas attendus à la maison, ils nous ont rejoints à Paris.
+Sa pièce de théâtre a déçu presque tous ses admirateurs.
+Il n'a pas voulu publier ses poèmes.
+Les ouvriers ont obtenu un salaire injustement bas.
 Elle a lu sa lettre en pleurant.
 Leur tâche leur a paru trop difficile.
 Il est parti pour l'Angleterre.
-En 1938 les Tchèques Ont Cru leurs alliés.
+En 1938 les Tchèques ont cru leurs alliés.
 Il a fallu se décider.
-Il y a eu un long Silence.
-Au quatorzième sièele, Prague est devenue une des villes européennes les plus importantes
-Après sa banqueroute il a Vécu des moments Vraiment difficiles.
-Elle a mis ses bijoux les plus prćeieux.
+Il y a eu un long silence.
+Au quatorzième sièele, Prague est devenue une des villes européennes les plus importantes.
+Après sa banqueroute il a vécu des moments vraiment difficiles.
+Elle a mis ses bijoux les plus préeieux.
 Les prophètes de l'Ancien Testament ont prédit la naissance du Messie.
-Ses yeux bleu clair et ses cheveux blonds Ont plu à tous les hoınmes.
+Ses yeux bleu clair et ses cheveux blonds ont plu à tous les hommes.
 Ils ne se sont pas défendus, ils n'ont rien pu dire.
 Il a décrit en detail toutes les villes visitées.
-Ses lèvres Ont souri et sa main a fait un geste gracieux.
+Ses lèvres ont souri et sa main a fait un geste gracieux.
 Personne n'a compris ses paroles.
 Il a dù partir tôt à son travail ce matin.
 Ce traitre n'a jamais tenu sa parole
-168 CV/Čebnıˇce francouzské gramatiky
-
-11. Složené perfektum, imperfektum, jednoduché perfektum
-451. Sa démission a satisfait le peuple révolté.
-452. Don Quichotte s'est battu contre des moulins a vent.
-453. Les Soldats Ont énormément souffert.
-454. La direction de ľentreprise a rěduit le nombre des embauches.
-455. Il a parcouru des milliers de kilomètres.
-D.
-Doplňte do /eažděz nćísledujících vět vhodně příčestí: acquis, atteint, bouilli, conclu, con-
-quis, convćıincu, Vecousu, cueilli, děcru, fui, mor/t, moulu, plaint, tu, 1/alu.
-456 Ne Sachant pas répondre, il s'est   _
-457 Grâce à ses etudes en Amerique, il a   ďénormes connaissances dans tous les domaines.
-458 Notre chien est   à ľâge de quinze ans.
-459 Une seconde ďinattention lui a   un mois à l'hôpital.
-460 Est-ce que Monsieur le ministre des Finances vous a   de la nécessité de ľaugmentation
-des impôts?
-461 Pendant la plus grande inondation dans notre village, l*eau a   le premier étage.
-462 La marmite que tu cherches est dans l'évier, j'y ai   du lait.
-463 Les diplomates ont   leurs négociations sans arriver à un accord.
-464 Combien de pays Hitler a-t-il   en 1940?
-465 Le médecin a vite   la plaie pour empêcher le Sang de Couler.
-466 Elle a   des fleurs dans son jardin et en a fait un très joli bouquet.
-467 Il a   loin de sa Ville natale pour ne plus rencontrer la jeune fille qu'il avait séduite.
-468 As-tu dćjà   tout le paquet de café?
-469 Le malade s'est   de ses douleurs à tous ceux qui sont Venus le voir.
-470 Au bout de deux jours le niveau de l'eau a   et tous les habitants Ont pu rentrer dans leurs
-maisons.
-Přeložte pomocí Složeněho perfe/eta.
-471
-472
-473
-474
-475
-476
-477
-478
-479
-480
-481
-482
-483
-484
-485
+#11. složené perfektum, imperfektum, jednoduché perfektum
+#170 - cvičebnice francouzské gramatiky
+Sa démission a satisfait le peuple révolté.
+Don Quichotte s'est battu contre des moulins a vent.
+Les soldats ont énormément souffert.
+La direction de ľentreprise a réduit le nombre des embauches.
+Il a parcouru des milliers de kilomètres.
+#Doplňte do každé z nísledujících vět vhodné příčestí: acquis, atteint, bouilli, conclu, conquis, convaincu, recousu, cueilli, décru, fui, mort, moulu, plaint, tu, valu.
+#! acquis, atteint, bouilli, conclu, conquis, convaincu, recousu, cueilli, décru, fui, mort, moulu, plaint, tu, valu
+Ne Sachant pas répondre, il s'est *
+Grâce à ses etudes en Amerique, il a * d'énormes connaissances dans tous les domaines.
+Notre chien est * à l'âge de quinze ans.
+Une seconde d'inattention lui a * un mois à l'hôpital.
+Est-ce que Monsieur le ministre des Finances vous a * de la nécessité de l'augmentation impôts?
+Pendant la plus grande inondation dans notre village, l'eau a * le premier étage.
+La marmite que tu cherches est dans l'évier, j'y ai * du lait.
+Les diplomates ont * leurs négociations sans arriver à un accord.
+Combien de pays Hitler a-t-il * en 1940?
+Le médecin a vite * la plaie pour empêcher le sang de couler.
+Elle a * des fleurs dans son jardin et en a fait un très joli bouquet.
+Il a * loin de sa ville natale pour ne plus rencontrer la jeune fille qu'il avait séduite.
+As-tu déjà * tout le paquet de café?
+Le malade s'est * de ses douleurs à tous ceux qui sont venus le voir.
+Au bout de deux jours le niveau de l'eau a * et tous les habitants ont pu rentrer dans leurs maisons.
+#Přeložte pomocí Složeněho perfekta.
+#!
 Na co Zemřel váš dědeček?
 Přijali nás (= accueillir) s otevřenou náručí.
 Mlynář umlel naši mouku za jedno odpoledne.
 Matka si postěžovala na svého syna.
 Alexandr Veliký dobyl téměř celý svět.
 Nepřesvědčili jste mě (= convaincre).
-Zamlčel (= taire) rodině svůj Zdravotní Stav.
+Zamlčel (= taire) rodině svůj zdravotní stav.
 Konečně jsme dosáhli svého cíle.
 Tvoje rozhodnutí mě stálo (= valoir) mnoho slz.
 Donutili jsme (= contraindre) ředitele, aby ustoupil.
@@ -595,165 +552,55 @@ Ušila si šaty úplně sama.
 Vyvařila všechno bílé prádlo.
 Nepostřehl jsem (= percevoir) různě nuance jeho slov.
 Kdy vláda uzavřela tuto smlouvu?
-1 70 Cvičebnice francouzské gramaľıˇky
-451.
-452.
-453.
-454.
-455.
-D.
-Com
-ıttei;
-plain
-456.
-457.
-458
-459.
--60.
-.gl
-462.
- 
-A4
--65
-466.
-›/-
-O .
-.Á8
-469.
-4'0.
-mi
-1
-,,-~
-" J.
-"_-3.
-J
-U
-'Š
-IQ
-.Lsfl
-”1
--.\
-vgą
-
-1 1. Složené perfektum, imperfektum, jednoduché perfektum
-486
-_ Získali jsme (= acquérir) autorská práva na tuto knihu.
-487. Díky spekulacím značně zvýšil (= accroitre) své jmění.
-488. Přispěl mi na pomoc (= secourir) V nejtěžších chvílích mého života.
-489. jeho účast jsem vyloučil (= exclure) předem.
-490. Léto rychle uběhlo (= fuir).
-Přeložte. Dbejte na Spľdl/7/ĹČ používćíøfız' Složeněho perfe/etćı ćı imperfe/ętćı.
-491. Když jsem objevil tento ostrov, myslel jsem, že jsem první.
-492
-493
-494
-495
-496
-497
-498
-499
-500
-501
-502
-503
-. Dříve jsem často lyžoval, ale zlomil jsem si nohu a teď mám trochu strach.
-. Dnes ráno bylo hezky, a pak najednou se na nebi nakupily mraky.
-Když jsem byl dítě, musel jsem jezdit na prázdniny se svými rodiči, ale v osmnácti letech
-jsem se rozhodl jet do Itálie sám.
+#11. složené perfektum, imperfektum, jednoduché perfektum
+#172 - cvičebnice francouzské gramatiky
+Získali jsme (= acquérir) autorská práva na tuto knihu.
+Díky spekulacím značně zvýšil (= accroitre) své jmění.
+Přispěl mi na pomoc (= secourir) v nejtěžších chvílích mého života.
+jeho účast jsem vyloučil (= exclure) předem.
+Léto rychle uběhlo (= fuir).
+#Přeložte. Dbejte na správné používání složeného perfekta či imperfekta.
+#!
+Když jsem objevil tento ostrov, myslel jsem, že jsem první.
+Dříve jsem často lyžoval, ale zlomil jsem si nohu a teď mám trochu strach.
+Dnes ráno bylo hezky, a pak najednou se na nebi nakupily mraky.
+Když jsem byl dítě, musel jsem jezdit na prázdniny se svými rodiči, ale v osmnácti letech jsem se rozhodl jet do Itálie sám.
 Včera jsem chytil rýmu, přestože (= pourtant) bylo dost teplo.
-Můj soused odcházel do práce každý den hodně brzo ráno až do dne, kdy ztratil zaměst-
-nání.
-Měl jsem hodně peněz, ale před dvěma lety jsem se ocitl bez peněz kvůli jedné špatné inves-
-tici.
+Můj soused odcházel do práce každý den hodně brzo ráno až do dne, kdy ztratil zaměstnání.
+Měl jsem hodně peněz, ale před dvěma lety jsem se ocitl bez peněz kvůli jedné špatné investici.
 Zola byl mým oblíbeným spisovatelem až do dne, kdy jsem četl Joyce.
 Tato země bývala bohatá, ale války ji zničily.
 Rád jsem dobře jedl; bohužel, můj doktor mi to zakázal.
-Ulice byly prázdné, všechno bylo klidně, když jsem v dálce uviděl nějakého muže.
+Ulice byly prázdné, všechno bylo klidné, když jsem v dálce uviděl nějakého muže.
 Pracoval jsi, zatímco jsem spal?
 Okna byla otevřená, zavřel jsi je?
-504 Film byl příliš dlouhý, a já jsem usnul.
-505. Popíjela kávu, zatímco její manžel si povídal s číšníkem.
-Přei/eďte nóísledu/ícı' věty do jednoduchčﬁžo peľfe/etćı.
-506. François Mitterand est mort en janvier 1996.
-507
-508.
-509.
-510.
-/-
-511.
-512.
-513.
-514.
-515.
-516.
-517.
-518.
-519.
-520.
-521
-Après avoir fait des centaines d'essais il a atteint son but: il a cnfin construit sa machine ČI
-remonter le temps.
+Film byl příliš dlouhý, a já jsem usnul.
+Popíjela kávu, zatímco její manžel si povídal s číšníkem.
+#Převeďte následující věty do jednoduchého perfekta.
+#! -> passé simple
+François Mitterand est mort en janvier 1996.
+Après avoir fait des centaines d'essais il a atteint son but: il a enfin construit sa machine à remonter le temps.
 La torture même ne l'a pas contraint à dénoncer ses complices.
-Le rédacteur en chef s'est plaint de ľinefficacitě de ses journalistes.
+Le rédacteur en chef s'est plaint de l'inefficacitě de ses journalistes.
 Il n'a convaincu personne.
-Le discours du president a conclu la session ďautomne du parlement.
+Le discours du president a conclu la session d'automne du parlement.
 Les pirates ont conquis le navire en une demi-heure.
 Eve a cueilli la pomme qu'Adam a mangée.
 Toute l'eau a bouilli.
-Son antisémitisme a beaucoup nuit à la rćputation de Céline.
+Son antisémitisme a beaucoup nuit à la réputation de Céline.
 Plus d'une fois les ouvriers ont fui leur travail.
-Tout ČI coup la voix féminine S'est tue.
-Ses Opinions lui ont valu de graves persécutions.
+Tout à coup la voix féminine s'est tue.
+Ses opinions lui ont valu de graves persécutions.
 Mon pere a acquis notre maison il y a vingt ans.
 Il a accru sa réputation grâce à son dernier roman.
 Ses ennemis l'ont détenu en prison pendant quatre ans.
-1 72 Cvičebrıice francouzské gramatiky
-
-11. Složené perfektum, imperfektum, jednoduché perfektum
-522. Beaucoup de personnes ont souscrit à la grande encyclopédie en couleurs.
-523. Le maitre n'a pas omis de punir le chien désobéissant.
-524. Sa cheville gracieuse a transparu au travers de sa longue robe.
-525. Au bout d'une longue réflexion il a conçu un projet fantastique.
-Inﬁnitiv U závorce nćıhrćıďte tvarem jednoduchého perfe/em, imperfektćı nebo Složeněho
-perfeletćı.
-Ilhomme   (approcher) doucement du mur de pierre qui   (entourer) le jardin,   (rester)
-quelques instants Sans bouger et puis, d'un seul coup, il   (se décider) à escalader. Quelques se-
-condes plus tard, il   (être) de l'autre côtć du mur, au milieu d'une pelouse bien tondue. Tout
-  (être) calme et sombre,“les nuages   (Voiler) le clair de lune. Il   (ne pas perdre) de temps et
-  (continuer) à petits pas rapidcs Vers la grande bâtisse. Il   (savoir) exactement où se diriger,
-il   (Vouloir) maintenant pćnćtrer dans la maison par la porte de derrière. CŽ.. (être) une Vieille
-porte avec une vitre qu°il   (casser) facilement, trop facilement peut-être, car quelques
-morceaux de Verres   (tomber) par terre et le bruit lui   (paraitre) assourdissant. Il   (serrer)
-les dents,   (ćcouter) mais   (ıťentendre) aucun bruit, tout le monde   (dormir). Il   (n'y
-avoir) qu'un couloir entre la porte et le Salon où   (se trouver) les deux tableaux qu'il   (con-
-voiter). Il   (sortir) sa lampe de poclıe,   (éclairer) et   (voir) la porte du salon ouverte. Il  
-(s'approcl1er) doucement,   (rentreř) dans la piece et   (chercher) avec le faisceau de la lampe
-les tableaux. Rien, il   (n'y avoir) rien. Seules quelques reproductions   (pendre) aux murs. Il
-  (rester) là, pantois, ne Sachant quoi penser, quand il   (entendre) un lćger bruit: <‹Quelqu,un
-  (se réveiller), j'... (faire) trop de bruit›› pensa-t-il. Il   (vouloir) sortir mais il   (être) trop tard.
-La lumière   (S'allumer). Un homme le   (regarder) du haut de l'eSCalier et   (pointer) un
-revolver vers lui.
-174 Cvičebnice francouzské gramatiky
-Š _\ Iette;
-522. E
-523. I
-324. S
-525. Ä
-ıppro‹
-še déc;
-ćtait
-štait, X
--ontin
-2ˇoulai
-tassa
-ˇambè
-ÍCOLIÍC
-x
--e troi
-Sortit,
-ÍÍFIÍIÍB.
-:`y av
-ˇestait
-S est rl
-š'allur
+#11. složené perfektum, imperfektum, jednoduché perfektum
+#174 - cvičebnice francouzské gramatiky
+Beaucoup de personnes ont souscrit à la grande encyclopédie en couleurs.
+Le maitre n'a pas omis de punir le chien désobéissant.
+Sa cheville gracieuse a transparu au travers de sa longue robe.
+Au bout d'une longue réflexion il a conçu un projet fantastique.
+#Infinitiv v závorce nahraďte tvarem jednoduchého perfekta, imperfekta nebo složeného perfekta.
+#! -> au passé simple, à l'imparfait ou au passé composé
+L'homme (approcher) doucement du mur de pierre qui (entourer) le jardin, (rester) quelques instants sans bouger et puis, d'un seul coup, il (se décider) à escalader. Quelques secondes plus tard, il (être) de l'autre côté du mur, au milieu d'une pelouse bien tondue. Tout (être) calme et sombre, les nuages (voiler) le clair de lune. Il (ne pas perdre) de temps et (continuer) à petits pas rapidcs vers la grande bâtisse. Il (savoir) exactement où se diriger, il (vouloir) maintenant pénétrer dans la maison par la porte de derrière. C' (être) une vieille porte avec une vitre qu'il (casser) facilement, trop facilement peut-être, car quelques morceaux de verres (tomber) par terre et le bruit lui (paraitre) assourdissant. Il (serrer) les dents, (écouter) mais (n'entendre) aucun bruit, tout le monde (dormir). Il (n'y avoir) qu'un couloir entre la porte et le salon où (se trouver) les deux tableaux qu'il (convoiter). Il (sortir) sa lampe de poclıe, (éclairer) et (voir) la porte du salon ouverte. Il(s'approcher) doucement, (rentrer) dans la piece et (chercher) avec le faisceau de la lampe les tableaux. Rien, il (n'y avoir) rien. Seules quelques reproductions (pendre) aux murs. Il (rester) là, pantois, ne sachant quoi penser, quand il (entendre) un léger bruit: << Quelqu'un (se réveiller), j'(faire) trop de bruit>> pensa-t-il. Il (vouloir) sortir mais il (être) trop tard. La lumière (s'allumer). Un homme le (regarder) du haut de l'escalier et (pointer) un revolver vers lui.
 
