@@ -56,71 +56,24 @@ Est-ce qu'on a compris la valeur de son oeuvre?
 Est-ce qu'on t'a expliqué ton travail?
 Est-ce qu'on a arrêté tous les agents de la police secrète?
 Est-ce qu'on a apporté l'apéritif?
-
-Prelošte pomocz' blzk/ee' mínulostí a blzk/zé budoucností.
-51. Dopis byl právë odeslan.
-52. Tato faktura byla právë Zaplacena.
-53. Naše l<oöl<a byla právë nalezena.
-54. Moje l<niha byla právé vydána.
-55. Jeho obrazy byly právë Zakoupeny Národní galerií.  56. Vaše auto bylo právë ukradeno.
-57. Vaše petice byla právé predzína prezidentovi.
-58. Byl jste právë nominován na Nobelovu cenu.
-59. Vÿsledky konkurzu bylv právë oznámeny.
-60. Tento talíî byl právë umyt.
-61. Vaše dcera bude hledana po celé Zemi.
-62. Tvoje koncepce bude jistë ocenëna.
-63. Naše vÿrobky budou vystaveny v prvním stánku nalevo.
-64. Vaše hodinky budou opraveny za deset minut.
-65. Peníze budou pouîity na stavbu nemocnice.
-66. Vaše auto vám bude jistë brzy vráceno.
-67. Vaše omluva
-bude jisté prijata.
-68. Váš dopis bude preöten pred celÿm shromáidëním.
-69. Vaše düvody
-jim budou vysvëtleny.
-70. Vÿrobky naší spoleönosti budou brzy známy po celém svëtë.
-232 CV/IÔGÖIÎ/'CG francouzské gramaf/ky
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
-50.
-Fadz
-51.
-52.
-53.
-54.
-55.
-56.
-57.
-58.
-59.
-6().
-61.
-62.
-63.
-64.
-65.
-66.
-67.
-68.
-69.
-70.
-
+#Přeložte pomocí blízké minulosti a blízké budoucnosti.
+Dopis byl právě odeslán.
+Tato faktura byla právě zaplacena.
+Naše loďka byla právě nalezena.
+Moje kniha byla právě vydána.
+Jeho obrazy byly právě zakoupeny Národní galerií.
+Vaše auto bylo právě ukradeno.
+Vaše petice byla právě předána prezidentovi.
+Byl jste právě nominován na Nobelovu cenu.
+Výsledky konkurzu byly právě oznámeny.
+Tento talíř byl právě umyt.
+Vaše dcera bude hledána po celé Zemi.
+Tvoje koncepce bude jistě oceněna.
+Naše výrobky budou vystaveny v prvním stánku nalevo.
+Vaše hodinky budou opraveny za deset minut.
+Peníze budou použity na stavbu nemocnice.
+Vaše auto vám bude jistě brzy vráceno.
+Vaše omluva bude jistě přijata.
+Váš dopis bude přečten před celým shromážděním.
+Vaše důvody jim budou vysvětleny.
+Výrobky naší společnosti budou brzy známy po celém světě.
