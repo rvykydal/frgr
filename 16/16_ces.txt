@@ -1,43 +1,34 @@
-16. Trpnÿ rod
-Trpnÿ rod La '
-B. Pfíklady 1_110 B- EX
-Trpnÿ rod - tvofení a uíívání. Voix F
-Tvary sloíeného perfekta, blízké minulosti a blízké budoucnosti v trpném rodè. Passé '
-Trpnÿ rod po modalnïch slovesech. Voix F
-c. Pïíklady 111-125 C- EX
-Tvary prítomného a minulého l<onjunl<tivu v trpném rodé. Pféset
-CI Cl U
-B_ B.
-P7\;€Z/Ødjtë naíslediijíci' 1/ãty do trpného rodiz. Mate
-1. On t,invitera sûrement. 1- F
-2. On vient de terminer la traduction d”un roman français. 2* 1
-3. Mon frère n'a pas fermé la porte. 3- 1
-4. Miloš Forman va tourner un nouveau film. 4- l
-5. Les jeunes préfèrent les jeans. 5- l
-6. Ce jeune coiffeur m”a très bien coiffée. 6- i
-7. On n”a pas branché la radio. 7- l
-8. Beaucoup de Français aiment Patricia Kaas. 8- l
-9. Personne ne m”a aidé. 9-  
-10. Deux étrangers ont loué l'appartement voisin. 10- l
-11. Une grosse moto vient de doubler notre vieille škoda. 11- l
-12. Des spécialistes enregistreront les chants des oiseaux exotiques. 12- Î
-13. Les étudiants remercieront les professeurs. 13- Î
-14. On a oublié tes clés sur la table. 14. '
-15. On mangeait du pain à tous les repas. 15- Î
-16. On chantait cette chanson dans toutes les auberges. 16- '
-17. Ses chefs n'accepteront pas sa proposition. 17. Î
-18. fai acheté ce tailleur chez Dior. 18. '
-19. Ma mère va t”envoyer de l”argent. 19- Î
-20. Les voisins Ont vu le disparu pour la dernière fois le quinze juillet. 20- Î
-21. On va connaître le nom du vainqueur ce soir. 21. 1
-22. Les meilleurs médecins l'ont examiné deux fois. 22. A
-23. Tous tes collègues attendent de tes nouvelles. 23-
-24. Un jury de cinq membres choisira la reine de beauté. 24-
-25. On n”a pas entendu ta réponse dans la salle. 25. '
-Odpovídejte zcípornã podle vzom: È Répo:
-- Est-ce qifon a invité Monsieur Collin? - Non, Monsieur Collin n”a pas été invité.   - Est-
-26. Est-ce qu”on a mangé toutes les provisions? 26.
-27. Est-ce qu”on a étudié cette hypothèse? 27.
-28. Est-ce qu'on a vendu tous les stocks? 28.
-230 CV/IÖBÖIÎÎCG francouzské gramatiky
-
+#16. Trpný rod
+#230 - Cvičebnice francouzské gramatiky
+#Převeďte následující věty do trpného rodu
+#! -> la voix passive
+On t'invitera sûrement.
+On vient de terminer la traduction d'un roman français.
+Mon frère n'a pas fermé la porte.
+Miloš Forman va tourner un nouveau film.
+Les jeunes préfèrent les jeans.
+Ce jeune coiffeur m'a très bien coiffée.
+On n'a pas branché la radio.
+Beaucoup de Français aiment Patricia Kaas.
+Personne ne m'a aidé.
+Deux étrangers ont loué l'appartement voisin.
+Une grosse moto vient de doubler notre vieille Škoda.
+Des spécialistes enregistreront les chants des oiseaux exotiques.
+Les étudiants remercieront les professeurs.
+On a oublié tes clés sur la table.
+On mangeait du pain à tous les repas.
+On chantait cette chanson dans toutes les auberges.
+Ses chefs n'accepteront pas sa proposition.
+J'ai acheté ce tailleur chez Dior.
+Ma mère va t'envoyer de l'argent.
+Les voisins ont vu le disparu pour la dernière fois le quinze juillet.
+On va connaître le nom du vainqueur ce soir.
+Les meilleurs médecins l'ont examiné deux fois.
+Tous tes collègues attendent de tes nouvelles.
+Un jury de cinq membres choisira la reine de beauté.
+On n'a pas entendu ta réponse dans la salle.
+#Odpovídejte záporně podle vzoru
+#! -> répondez négativement au passif
+Est-ce qu'on a mangé toutes les provisions?
+Est-ce qu'on a étudié cette hypothèse?
+Est-ce qu'on a vendu tous les stocks?
