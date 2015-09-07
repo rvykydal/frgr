@@ -20,6 +20,7 @@ Oui, il faut qu’ils discutent avec nous.
 Oui, il faut que je l’exprime.
 Oui, il faut qu’ils l'établissent.
 Oui, il faut que nous le remplissions.
+#14. Le présent et le passé du subjonctif
 #197 - Cvičebnice francouzské gramatiky
 Oui, il faut que je la remercie.
 Oui, il faut que nous l'étudiions.
@@ -65,5 +66,48 @@ suffise
 pleuve
 connaissiez
 plaise
-
-
+#14. Le présent et le passé du subjonctif
+#197 - Cvičebnice francouzské gramatiky
+puisse
+écrives
+nous servions
+faille
+ait
+veuillent
+doives
+vive
+apprenne
+sorte
+comprennes
+devienne
+promettes
+prenne
+reçoive
+vouliez
+soient
+s’aperçoive
+vous souveniez
+tiennes
+#!
+Elle veut que j’apprenne à cuisiner.
+Elle veut que vous buviez plus de lait.
+Elle veut que son fils devienne médecin.
+Elle veut que tu la croies.
+Elle veut que vous lui présentiez votre amie.
+Elle veut que nous lui promettions de rentrer à temps.
+Elle veut que tu lui rendes ses livres.
+Elle veut que je lui réponde le plus vite possible.
+Elle veut que sa fille se marie à l’église.
+Elle veut être belle et avoir beaucoup de succès.
+Il faut que vous laviez la voiture.
+Il faut que je fasse les achats.
+Il faut qu’ils préparent le dîner.
+Il faut que nous allions chercher les médicaments à la pharmacie.
+Il faut que tu traduises cet article ce soir.
+Il faut qu’elle repasse le linge.
+Il faut que je promène le chien.
+Il faut que vous fermiez les fenêtres.
+Il faut que tu changes l’ampoule dans la cuisine.
+Il faut avoir envie de travailler et ne pas être paresseux.
+Je souhaite qu’il ne pleuve pas dimanche.
+Je souhaite que nous puissions aller chez notre grand-mère.
