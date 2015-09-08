@@ -67,7 +67,7 @@ pleuve
 connaissiez
 plaise
 #14. Le présent et le passé du subjonctif
-#197 - Cvičebnice francouzské gramatiky
+#199 - Cvičebnice francouzské gramatiky
 puisse
 écrives
 nous servions
@@ -111,3 +111,54 @@ Il faut que tu changes l’ampoule dans la cuisine.
 Il faut avoir envie de travailler et ne pas être paresseux.
 Je souhaite qu’il ne pleuve pas dimanche.
 Je souhaite que nous puissions aller chez notre grand-mère.
+#14. Le présent et le passé du subjonctif
+#201 - Cvičebnice francouzské gramatiky
+Je souhaite que maman ne soit pas triste.
+Je souhaite que mes frères aînés me permettent de jouer avec eux.
+Je souhaite que ma sœur ait beaucoup d’enfants.
+Je souhaite que le grand—père ne doive pas rester à l’hôpital.
+Je souhaite que tous les enfants reçoivent beaucoup de cadeaux pour Noël.
+Je souhaite qu’il ne faille pas appeler le médecin.
+Je souhaite que ma copine me voie dans ma nouvelle robe.
+Je souhaite vivre dans une grande maison avec un grand jardin et beaucoup d’animaux.
+Ils regrettent que leur nouvelle voiture ne nous plaise pas.
+Ils regrettent que tu ne veuilles pas aller en vacances avec eux.
+Ils regrettent que je n’aille pas en France.
+Ils regrettent que tu ne les salues pas.
+Ils regrettent que la grand—mère entende si mal.
+Ils regrettent que vous choisissiez de mauvais amis.
+Ils regrettent que leur parole ne te suffise pas.
+Ils regrettent que vous ne puissiez pas les aider.
+Ils regrettent que tu ne boives pas de champagne.
+Ils regrettent de ne pas avoir une voiture plus rapide.
+#Mettez les verbes entre parenthèses au présent du subjonctif
+#! -> subj pres
+HERE
+nous asseyions/assoyions
+
+naisse
+paraisse
+déçoives
+batte
+satisfassiez
+disparaissent
+résolviez
+dorme
+interdise
+prévoie
+sentes
+joigniez
+distraie
+riiez
+détruise
+peigne
+t’inscrives
+transmettiez
+sourie
+décriviez
+obtiennent
+
+craigniez
+
+Cviëebn/‘ce francouzské gramar/‘ky 201
+
