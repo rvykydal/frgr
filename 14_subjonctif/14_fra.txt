@@ -133,9 +133,7 @@ Ils regrettent que tu ne boives pas de champagne.
 Ils regrettent de ne pas avoir une voiture plus rapide.
 #Mettez les verbes entre parenthèses au présent du subjonctif
 #! -> subj pres
-HERE
 nous asseyions/assoyions
-
 naisse
 paraisse
 déçoives
@@ -157,8 +155,5 @@ transmettiez
 sourie
 décriviez
 obtiennent
-
 craigniez
-
-Cviëebn/‘ce francouzské gramar/‘ky 201
 
