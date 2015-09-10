@@ -288,90 +288,18 @@ Je veux apprendre le français bien que ce soit une des langues les plus diffici
 Elle lui est fidèle bien qu’elle se rende compte qu’il la trompe.
 Bien qu’il lui soit fidèle, elle le trompe.
 Bien que la peinture moderne ne me dise généralement rien les tableaux de Rouault me plaisent beaucoup.
-
-‘aiment
-
-viens à
-
-/
-
-e com-
-1€ je 
-is vrai-
-
-: libres
-
-l6 je 
-
-ulière-
-
-auloir)
-
-14. Le présent et le passé du subjonctif
-
-Mettez les verbes entre parentbèses au présent ou au passe’ du subjonctif
-
-_:uisse
-
-sois
-
-révise
-
-, réapprenne
-
-gie, réussisse
-
-nbtienne
-
-Lie eu
-
-çense
-
-fasse,
-
-peigne
-
-promène
-
-Lille
-
-‘Digne, veuille
-
-ioive
-
-D.
-
-Mettez les verbes entre parenthèses au présent du subjonctif
-
-266.
-267.
-268.
-269.
-270.
-271.
-272.
-273.
-274.
-275.
-276.
-277.
-278.
-279.
-280.
-281.
-282.
-283.
-284.
-285.
-
+#14. Le présent et le passé du subjonctif
+#209 - Cvičebnice francouzské gramatiky
+#Mettez les verbes entre parenthèses au présent ou au passé du subjonctif
+puisse, sois, révise, réapprenne, aie, réussisse, obtienne, aie eu, pense,
+fasse, peigne, promène, aille
+joigne, veuille, doive
+#Mettez les verbes entre parenthèses au présent du subjonctif
 fuie
-
 vaille
-
 meure
 perçoives
 acquières
-
 se plaigne
 reconquière
 vous taisiez
@@ -385,22 +313,86 @@ moule
 croisse
 détienne
 déduisent
-
 haïsse
-
 vous soustrayiez
-
-Traduisez (subjonctif dans les propositions relatives).
-
-286. C’est la seule femme avec qui je puisse vivre.
-
-287. Nous cherchons quelquïin qui nous apprenne le français.
-
-288. C’est le livre le plus intéressant que je connaisse.
-
-289. Il s’agit de trouver une secrétaire qui soit de toute confiance.
-
-290. Tu es le premier homme qui comprenne mes problèmes.
-
-Cviôebnice francouzské gramar/ky 209
+#Traduisez (subjonctif dans les propositions relatives).
+C’est la seule femme avec qui je puisse vivre.
+Nous cherchons quelqu'un qui nous apprenne le français.
+C’est le livre le plus intéressant que je connaisse.
+Il s’agit de trouver une secrétaire qui soit de toute confiance.
+Tu es le premier homme qui comprenne mes problèmes.
+#14. Le présent et le passé du subjonctif
+#211 - Cvičebnice francouzské gramatiky
+Trouvez quelqu’un qui me fasse rire.
+C’est le meilleur gâteau que j’aie jamais mangé.
+Martin est le seul étudiant qui se prépare pour chaque leçon.
+Ici il faut quelqu’un qui ait beaucoup d’expériences.
+C’est la dernière personne que je puisse aimer.
+Prague est la plus belle ville que j’aie jamais visitée.
+C’est l’homme le plus égoïste que nous ayons jamais rencontré.
+Je ne connais personne qui puisse t’aider.
+C’est la question la plus bête qu’on m’ait jamais posée.
+Téléphone à quelqu’un qui sache te conseiller.
+Tu es la seule personne à qui je fasse confiance.
+C’est le seul problème que nous n’ayons pas encore résolu.
+Je vais commander un plat qui ne soit pas trop cher.
+Racontez—nous une histoire qui nous amuse tous.
+Il est difficile d’acheter une cravate qui plaise à mon mari.
+Est-ce qu’il y a une question à laquelle il ne sache pas répondre?
+Je ne connais aucune école où les enfants aillent avec plaisir.
+Est-ce qu’il y a un médicament qui puisse m’aider?
+Je voudrais dîner dans un restaurant où il y ait une ambiance agréable.
+Je ne connais aucun domaine de la grammaire française qui soit aussi contrariant que le subjonctif.
+#Traduisez (subjonctif dans les propositions concessives).
+Si/Aussi élégamment qu’elle s’habille, elle ne sera pas plus jolie.
+Si/Aussi intelligent que tu sois, tu ne résoudras pas ce rébus.
+Je ne te le dirai pas, que tu me pries ou que tu me menaces.
+Où que vous voyagiez, prenez une assurance.
+Si/Aussi belle qu’elle soit, je ne l’épouserai pas.
+A qui que ce soit que vous demandiez, chacun vous dira que vous n’avez pas raison.
+Si/Aussi petit que soit cet appartement, je le louerai.
+En quelqu’état qu’il soit, je dois lui parler.
+Quel que soit son caractère, il faut avouer qu’il s’y connaît.
+Si/Aussi haut que vous parliez, il ne vous entendra pas parce qu’il est sourd.
+Quoi que vous écriviez, il faut finir.
+Qui que ce soit que vous invitiez, il sera le bienvenu.
+Quelle que soit sa réputation, en réalité c’est un homme honnête.
+Si/Aussi forts que soient les murs de la prison, il s’en évadera.
+Quoi qu’il mange, il n’a jamais mal au coeur.
+Si/Aussi cher que soit ce tableau, je l'achèterai.
+Si/Aussi bien que tu chantes, tu ne gagneras pas le concours.
+Si/Aussi peu qu’il gagne, il sera content.
+Si/Aussi longtemps que je dorme, je me sens fatigué.
+Si/Aussi terriblement que rugisse le dragon, je ne le crains pas.
+#14. Le présent et le passé du subjonctif
+#213 - Cvičebnice francouzské gramatiky
+# Complétez les phrases suivantes par la conjonction qui convient: a moins que, de façon à ce que, de peur que, en attendant que, non que, pour que, pourvu que, quoi que, sans que, suppose’ que.
+#! á moins que, de façon à ce que, de peur que, en attendant que, non que, pour que, pourvu que, quoi que, sans que, suppose que
+sans que
+Non que
+Quoi que
+En attendant que
+de façon à ce que
+à moins que
+Supposé que
+de peur qu’
+pourvu que
+pour que
+#Traduisez en prêtant attention aux conjonctions.
+#!
+Que tu m’accueilles, ou que tu me mettes à la porte, je t’aimerai toujours.
+Supposé/ A supposer qu’ils viennent tous, combien de chaises est-ce qu’il faudra?
+Tu peux partir à condition que tu m’écrives tous les jours.
+Il ne fera rien, à moins qu’il s’agisse de son propre enfant.
+J’habiterai n’importe où, pourvu que je ne doive pas être avec elle.
+Agis de façon/de manière/en sorte que tu aies toujours la conscience tranquille.
+Il a été absent trop longtemps pour que ses voisins se souviennent de lui.
+Je ne suis pas si vieille que vous deviez me céder la place.
+Je me tais de peur/de crainte que tu ne me réprimandes.
+Laisse-la dormir qu’elle se repose.
+Ce n’est pas qu’il se meure, mais son état est assez grave.
+Il est resté à la maison; non qu’il ne veuille pas sortir avec nous, mais il attendait des invités.
+En attendant que l’été commence fessayerai/essaierai de maigrir de dix kilos.
+Ce n’est pas qu’elle soit belle mais elle est intéressante.
+Je ne peux pas aller avec toi, à moins que tu m’aides à faire le ménage.
 

@@ -292,90 +292,107 @@ Ačkoliv moderní malířství mi obvykle nie neříká, Rouaultovy obrazy se mi
 #208 - Cvičebnice francouzské gramatiky
 #Slovesa v závorkách dejte do tvaru konjuktivu přítomného nebo minulého.
 La grammaire française est parfois vraiment étrange. Je ne crois pas que je  (pouvoir) vraiment la maitriser un jour.  J'ai un examen dans quelques jours mais je doute que je  (étre) prét a temps. Je me souviens a peine des pronoms et il faut encore que je  (réviser) ou méme  (réapprendre) le passé composé et l'imparfait. Hélas, je ne pense pas que  (avoir) le choix: il faut absolument que je (réussir) cet examen et  (obtenir) ce diplóme ou bien mes réves vont tourner court. Je suis vraiment béte, je n'ai pas su organíser mon temps bien que j'... (avoir) plusieurs week-ends de libres ces derniers mois. Mais il vaut mieux que je n'y  (penser) plus.
-
 Et puis en plus, ce matin ma mère a voulu que je  (faire) la vaisselle et elle voudrait que je (peindre) la porte du jardin. Il y a aussi mon chien qui exige que je le  (promener) réguliěrement et mes amis qui veulent que j'... (aller) avec eux boire un verre.
-
 Il faut que je  (joindre) un de mes amis qui est tres fort en français. Pourvu qu'il  (vouloir) bien m'aider et que je ne  (devoir) pas repasser cet affreux examen.
-
-D.
-
-Slovesa v závorkách uvecľte ve tvaru /eonjun/etivu přítomného.
-266. Il faut trouver quelqtťun qui ne  (fuir) pas ses responsabilités.
-267. Je ne crois pas que ça  (valoir) la peine ďy aller.
-
-268. Il est fort probable qu”elle  (mourir) avant minuit.  269. Il est impossible que tu ne  (percevoir) plus son pouls.
-
-270. je ne crois pas que tu  (acquérir) de certitude sur ce point.
-
-271. Il a arrangé ľaffaire de maniěre či ce que personne ne  (se plaindre).
-
-272. Est-il possible que le parti socialiste  (reconquérir) le pouvoir?
-
-273. Il faut que Vous  (se taire) pendant quelques minutes.
-
-274. Il est rare que quelqu'un me  (convaincre) de mon tort.
-
-275. Il est préférable que nous  (atteindre) notre campement avant que la nuit tombe.
-276. Il n”est pas sůr que son temoignage ne  (conclure) pas contre toi.
-
-277. Est-il vraiment nécessaire que je  (recoudre) ce bouton maintenant?
-
-278. Je doute que Vous  (s”enfuir).
-
-279. Le général attend que nous  (conquérir) la victoire.
-
-280. Les clients sont mécontents qu°on ne  (moudre) plus le café dans les magasins.
-281. Il est soubaitable que le chómage ne  (croítre) plus.
-
-282. Personne ne croit que le president  (détenir) vraiment le pouvoir.
-
-283. Un bon professeur Veut que ses étudiants  (déduire) la bonne solution eux-mémes.
-284. je ne peux pas croire que tu le  (hair) toujours a un tel point.
-
-285. Il faut que Vous  (se soustraire) a sa domination.
-
-Přeložte (Izonjun/etiv ve vztažných větác/o).
-
-286. To je jediná žena, se kterou bych mohl žít.
-
-287. Hledáme někoho, kdo by nás naučil francouzsky.
-
-288. To je nejzajímavější kniha, jakou znám.
-
-289. Jde o to najít sekretářku, ktera' by byla naprosto spolehlivá.
-290. Ty jsi první člověk, který chápe mé problémy.
-
-208 cvičebnice francouzské gramatiky
-
-Nľette;
-
-puisse
-
-révise,
-nie, re'
-obtien
-aie eu
-pense
-fasse,
-promě
-Jlllč
-*oigne
-
-ioive
-
-D.
-
-Matte
-266.1
-167. i
-268.1
-269.]
-270. z
-
-?mzdu
-156.
-187.
-158.
-39.
-290.
+#Slovesa v závorkách uveďte ve tvaru konjunktivu přítomného.
+Il faut trouver quelqu'un qui ne  (fuir) pas ses responsabilités.
+Je ne crois pas que ça  (valoir) la peine ďy aller.
+Il est fort probable qu'elle  (mourir) avant minuit.  
+Il est impossible que tu ne  (percevoir) plus son pouls.
+Je ne crois pas que tu  (acquérir) de certitude sur ce point.
+Il a arrangé ľaffaire de manière à ce que personne ne  (se plaindre).
+Est-il possible que le parti socialiste  (reconquérir) le pouvoir?
+Il faut que vous  (se taire) pendant quelques minutes.
+Il est rare que quelqu'un me  (convaincre) de mon tort.
+Il est préférable que nous  (atteindre) notre campement avant que la nuit tombe.
+Il n'est pas sur que son temoignage ne  (conclure) pas contre toi.
+Est-il vraiment nécessaire que je  (recoudre) ce bouton maintenant?
+Je doute que vous  (s'enfuir).
+Le général attend que nous  (conquérir) la victoire.
+Les clients sont mécontents qu'on ne  (moudre) plus le café dans les magasins.
+Il est souhaitable que le chomage ne  (croître) plus.
+Personne ne croit que le president  (détenir) vraiment le pouvoir.
+Un bon professeur veut que ses étudiants  (déduire) la bonne solution eux-mémes.
+Je ne peux pas croire que tu le  (hair) toujours a un tel point.
+Il faut que vous  (se soustraire) a sa domination.
+#Přeložte (konjunktiv ve vztažných větách).
+To je jediná žena, se kterou bych mohl žít.
+Hledáme někoho, kdo by nás naučil francouzsky.
+To je nejzajímavější kniha, jakou znám.
+Jde o to najít sekretářku, která by byla naprosto spolehlivá.
+Ty jsi první člověk, který chápe mé problémy.
+#14. Konjunktiv přítomný a minulý
+#210 - Cvičebnice francouzské gramatiky
+Najděte někoho, kdo by mě rozesmál.
+To je nejlepší koláč, jaký jsem kdy jedl.
+Martin je jediný student, který se připravuje na každou hodinu.
+Tady je potřeba někdo, kdo by měl hodně zkušeností.
+To je ta poslední osoba, kterou bych mohl milovat.
+Praha je nejkrásnější město, jaké jsem kdy navštívil.
+Je to nejsobečtější člověk, jakého jsme kdy potkali,
+Neznám nikoho, kdo by ti mohl pomoci.
+To je nejhloupější otázka, kterou mi kdy položili.
+Zatelefonuj někomu, kdo by ti uměl poradit.
+Jsi jediná osoba, k níž mám důvěru.
+Je to jediný problém, který jsme ještě nevyřešili.
+Objednám si nějaké jídlo, které by nebylo příliš drahé.
+Vyprávějte nám nějakou historku, která by nás všechny pobavila.
+Je těžké koupit kravatu, která by se mému manželovi líbila.
+Je nějaká otázka, na kterou by neuměl odpovědět?
+Neznám žádnou školu, kam by děti chodily s radostí.
+Je nějaký lék, který by mi mohl pomoci?
+Chtěl bych večeřet v nějaké restauraci, kde by bylo příjemné prostředí.
+Neznám žádnou oblast francouzské gramatiky, která by byla tak protivná jako konjunktiv.
+#Přeložte (konjunktiv ve vedlejších větách přípustkových).
+Byť by se oblékla sebeelegantněji, hezčí nebude.
+I kdybys byl sebeinteligentnější, tento rébus nevyřešíš.
+Neřeknu ti to, ať mě prosíš, nebo mi vyhrožuješ.
+Ať cestujete kamkoliv, pojistěte se.
+I kdyby byla sebekrásnější, nevezmu si ji.
+Ať se zeptáte kohokoliv, každý vám řekne, že nemáte pravdu.
+I kdyby ten byt byl sebemenší, najmu si ho.
+Ať je v jakémkoliv stavu, musím s ním mluvit.
+Ať je jeho charakter jakýkoliv, je třeba uznat, že se vyzná.
+Ať mluvíte sebehlasitěji, neuslyší vás, protože je hluchý.
+Ať píšete cokoliv, je třeba skončit.
+Ať pozvete kohokoliv, bude vítán.
+Ať je jeho pověst jakákoliv, ve skutečnosti je to poctivý člověk.
+Ať jsou zdi vězení sebesilnější, unikne odtamtud.
+Ať sní cokoliv, nikdy mu není špatně od žaludku.
+Ať je ten obraz sebedražší, koupím ho.
+I kdybys zpíval sebelépe, v konkursu nezvítězíš.
+I kdyby vydělával sebeméně, bude spokojený.
+Ať spím sebedéle, cítím se unavený.
+Ať řve (= rugir) drak jakkoliv hrozně, nebojím se ho.
+#14. Konjunktiv přítomný a minulý
+#212 - Cvičebnice francouzské gramatiky
+#Doplňte do každé z vět vhodnou spojku: á moins que, de façon, à ce que, de peur que, en attendant que, non que, pour que, pourvu que, quoi que, sans que, suppose que.
+#! á moins que, de façon à ce que, de peur que, en attendant que, non que, pour que, pourvu que, quoi que, sans que, suppose que
+Quelle surprise! Mon mari a fait la vaisselle * je le lui aie demandé.
+* je ne veuille pas te rendre ľargent emprunté mais j'ai eu des dépenses inattendues.
+* je dise, il me contredit.
+* mon enfant s'endorme, je lui lis des contes.
+Cette infirmiere fair les piqures * ça ne fasse pas mal.
+La banque ne vous prétera pas d'argent a credit * vous puissiez garantir le prét avec des biens immobiliers.
+* je vous demande pardon, vous ne mlen voudrez plus?
+Un enfant n'est pas rentré a la maison * il ne reçoive une fessée.
+* l'accepte n'importe quel travail * je ne doive pas me lever trop tôt.
+Il fait trop froid * nous allions nous baigner.
+#Přeložte (předložky s konjunktivem)
+#!
+Ať mě přivítáš, nebo mě vyhodíš, stále tě budu milovat.
+Za předpokladu, že přijdou všichni, kolik židlí bude třeba?
+Můžeš odjet pod podmínkou, že mi budeš psát každý den.
+Neudělá nic, ledaže by se jednalo o jeho vlastní dítě.
+Budu bydlet kdekoliv, jen když nebudu muset být s ní.
+Jednej tak, abys měl vždycky klidné svědomí.
+Byl pryč příliš dlouho, než aby si na něho jeho sousedé vzpomněli.
+Nejsem tak stará, abyste mi musel uvolňovat sedadlo.
+Mlčím z obavy, že mě budeš kárat.
+Nech ji spát, ať si odpočine.
+Ne že by umíral, ale jeho stav je dost vážný.
+Zůstal doma; ne že by nechtěl jít ven s námi, ale čekal hosty.
+Než začne léto, pokusím se zhubnout o deset kilo.
+Ne že by byla hezká, ale je zajímavá.
+Nemohu jít s tebou, ledaže bys mi pomohl uklidit.
 
